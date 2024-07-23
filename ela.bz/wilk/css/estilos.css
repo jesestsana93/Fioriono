@@ -70,8 +70,15 @@
       color: rgba(255,255,255,.7);
   }
   .menu-lateral-fiorino2 ul li a.active{
-      color: rgb(221, 32, 39);
+      color: #E7242D;
   }
   .menu-lateral-fiorino2 ul li a:hover{
-      color: rgb(221, 32, 39);
+      color: #E7242D;
+  }
+
+  .text-gradient-gold {
+    background: linear-gradient(to right, #E7242D 10%, #E7242D 80%);
+      background-clip: border-box;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
   }
