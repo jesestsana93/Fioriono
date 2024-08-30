@@ -15,7 +15,7 @@ $(function () {
                         <h1 class="title-extra-large text-weight-200 text-gradient-gold sm-width-90 margin-bottom-20px sm-margin-left-right-auto sm-text-weight-300">Servicios adicionales</h1>
                         
                         <h6 class="text-weight-200 roboto text-white margin-left-right-auto">Completa tu evento con<br/><span class="text-lime">detalles únicos</span></h6>
-                        <a class="btn btn-small btn-white border-radius-50 sm-margin-left-right-auto sm-display-table" href="page-about.html">Ver más</a>
+                        <a class="btn btn-small btn-white border-radius-50 sm-margin-left-right-auto sm-display-table" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">Ver más</a>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-12 col-xs-12 center-col text-center md-margin-top-75px">
@@ -25,11 +25,11 @@ $(function () {
                             <!-- Column -->
                             <div class="col-md-6 col-sm-12 col-xs-12 margin-bottom-100px text-left sm-text-center">
                                 
-                                <span class="text-gold ext-center" data-uk-icon="icon: camera; ratio: 1.5"></span>
+                                <span class="text-danger ext-center" data-uk-icon="icon: camera; ratio: 1.5"></span>
                                 
-                                <h6 class="text-weight-200 roboto margin-top-20px margin-bottom-15px text-white sm-text-weight-300">Plataforma 360</h6>
+                                <h6 class="text-weight-200 roboto margin-top-20px margin-bottom-15px text-white sm-text-weight-300">Invitaciones</h6>
                                 
-                                <a href="#" class="text-underline roboto no-margin text-weight-400 text-medium d-none">Check Out.</a>
+                                <a href="#" class="text-underline roboto no-margin text-weight-400 text-medium"></a>
 
                                 
                             </div>
@@ -38,11 +38,11 @@ $(function () {
                             <!-- Column -->
                             <div class="col-md-6 col-sm-12 col-xs-12 margin-bottom-100px text-left sm-text-center">
                                 
-                                <span class="text-gold ext-center" data-uk-icon="icon: image; ratio: 1.5"></span>
+                                <span class="text-danger ext-center" data-uk-icon="icon: image; ratio: 1.5"></span>
                                 
-                                <h6 class="text-weight-200 roboto margin-top-20px margin-bottom-15px text-white sm-text-weight-300">Fotoimanes.</h6>
+                                <h6 class="text-weight-200 roboto margin-top-20px margin-bottom-15px text-white sm-text-weight-300">Mural</h6>
                                 
-                                <a href="#" class="text-underline roboto no-margin text-weight-400 text-medium d-none">Check Out.</a>
+                                <a href="#" class="text-underline roboto no-margin text-weight-400 text-medium"></a>
 
                                 
                             </div>
@@ -52,11 +52,11 @@ $(function () {
                             <!-- Column -->
                             <div class="col-md-6 col-sm-12 col-xs-12 margin-bottom-100px text-left sm-text-center">
                                 
-                                <span class="text-gold ext-center" data-uk-icon="icon: bolt; ratio: 1.5"></span>
+                                <span class="text-danger ext-center" data-uk-icon="icon: bolt; ratio: 1.5"></span>
                                 
-                                <h6 class="text-weight-200 roboto margin-top-20px margin-bottom-15px text-white sm-text-weight-300">Cronológico</h6>
+                                <h6 class="text-weight-200 roboto margin-top-20px margin-bottom-15px text-white sm-text-weight-300">Book</h6>
                                 
-                                <a href="#" class="text-underline roboto no-margin text-weight-400 text-medium d-none">Check Out.</a>
+                                <a href="#" class="text-underline roboto no-margin text-weight-400 text-medium"></a>
 
                                 
                             </div>
@@ -65,11 +65,11 @@ $(function () {
                             <!-- Column -->
                             <div class="col-md-6 col-sm-12 col-xs-12 margin-bottom-100px text-left sm-text-center">
                                 
-                                <span class="text-gold ext-center" data-uk-icon="icon: tag; ratio: 1.5"></span>
+                                <span class="text-danger ext-center" data-uk-icon="icon: tag; ratio: 1.5"></span>
                                 
-                                <h6 class="text-weight-200 roboto margin-top-20px margin-bottom-15px text-white sm-text-weight-300">Postales</h6>
+                                <h6 class="text-weight-200 roboto margin-top-20px margin-bottom-15px text-white sm-text-weight-300">Book digital</h6>
                                 
-                                <a href="#" class="text-underline roboto no-margin text-weight-400 text-medium">Check Out.</a>
+                                <a href="#" class="text-underline roboto no-margin text-weight-400 text-medium"></a>
 
                                 
                             </div>
@@ -79,11 +79,11 @@ $(function () {
                             <!-- Column -->
                             <div class="col-md-6 col-sm-12 col-xs-12 sm-margin-bottom-100px text-left sm-text-center">
                                 
-                                <span class="text-gold ext-center" data-uk-icon="icon: video-camera; ratio: 1.5"></span>
+                                <span class="text-danger ext-center" data-uk-icon="icon: video-camera; ratio: 1.5"></span>
                                 
-                                <h6 class="text-weight-200 roboto margin-top-20px margin-bottom-15px text-white sm-text-weight-300">Murales</h6>
+                                <h6 class="text-weight-200 roboto margin-top-20px margin-bottom-15px text-white sm-text-weight-300">Banner</h6>
                                 
-                                <a href="#" class="text-underline roboto no-margin text-weight-400 text-medium">Check Out.</a>
+                                <a href="#" class="text-underline roboto no-margin text-weight-400 text-medium"></a>
 
                                 
                             </div>
@@ -93,11 +93,11 @@ $(function () {
                             <!-- Column -->
                             <div class="col-md-6 col-sm-12 col-xs-12 text-left sm-text-center">
                                 
-                                <span class="text-gold ext-center" data-uk-icon="icon: paint-bucket; ratio: 1.5"></span>
+                                <span class="text-danger ext-center" data-uk-icon="icon: paint-bucket; ratio: 1.5"></span>
                                 
-                                <h6 class="text-weight-200 roboto margin-top-20px margin-bottom-15px text-white sm-text-weight-300">Album</h6>
+                                <h6 class="text-weight-200 roboto margin-top-20px margin-bottom-15px text-white sm-text-weight-300">Banner digital</h6>
                                 
-                                <a href="#" class="text-underline roboto no-margin text-weight-400 text-medium">Check Out.</a>
+                                <a href="#" class="text-underline roboto no-margin text-weight-400 text-medium"></a>
 
                                 
                             </div>
@@ -105,6 +105,75 @@ $(function () {
                         </div>
                     </div>						
                 </div>
+                <div class="col-md-12 col-sm-12 col-xs-12 text-left sm-text-center mt-4 pt-4">
+                <div class="collapse" id="collapseExample">
+                    <div class="row">
+                        <div class="col-lg-3">
+                            <span class="text-danger ext-center" data-uk-icon="icon: paint-bucket; ratio: 1.5"></span>
+                        
+                            <h6 class="text-weight-200 roboto margin-top-20px margin-bottom-15px text-white sm-text-weight-300">Silueta</h6>
+                        
+                            <a href="#" class="text-underline roboto no-margin text-weight-400 text-medium"></a>
+                        </div>
+                        <div class="col-lg-3">
+                            <span class="text-danger ext-center" data-uk-icon="icon: paint-bucket; ratio: 1.5"></span>
+                        
+                            <h6 class="text-weight-200 roboto margin-top-20px margin-bottom-15px text-white sm-text-weight-300">Lámina</h6>
+                        
+                            <a href="#" class="text-underline roboto no-margin text-weight-400 text-medium"></a>
+                        </div>
+                        <div class="col-lg-3">
+                            <span class="text-danger ext-center" data-uk-icon="icon: paint-bucket; ratio: 1.5"></span>
+                        
+                            <h6 class="text-weight-200 roboto margin-top-20px margin-bottom-15px text-white sm-text-weight-300">Postales</h6>
+                        
+                            <a href="#" class="text-underline roboto no-margin text-weight-400 text-medium"></a>
+                        </div>
+                        <div class="col-lg-3 margin-top-20px">
+                            <span class="text-danger ext-center" data-uk-icon="icon: paint-bucket; ratio: 1.5"></span>
+                        
+                            <h6 class="text-weight-200 roboto margin-top-20px margin-bottom-15px text-white sm-text-weight-300">Número de mesa</h6>
+                        
+                            <a href="#" class="text-underline roboto no-margin text-weight-400 text-medium"></a>
+                        </div>
+                        <div class="col-lg-3">
+                            <span class="text-danger ext-center" data-uk-icon="icon: paint-bucket; ratio: 1.5"></span>
+                        
+                            <h6 class="text-weight-200 roboto margin-top-20px margin-bottom-15px text-white sm-text-weight-300">Fotolog</h6>
+                        
+                            <a href="#" class="text-underline roboto no-margin text-weight-400 text-medium"></a>
+                        </div>
+                        <div class="col-lg-3">
+                            <span class="text-danger ext-center" data-uk-icon="icon: paint-bucket; ratio: 1.5"></span>
+                        
+                            <h6 class="text-weight-200 roboto margin-top-20px margin-bottom-15px text-white sm-text-weight-300">Foto express</h6>
+                        
+                            <a href="#" class="text-underline roboto no-margin text-weight-400 text-medium"></a>
+                        </div>
+                        <div class="col-lg-3">
+                            <span class="text-danger ext-center" data-uk-icon="icon: paint-bucket; ratio: 1.5"></span>
+                        
+                            <h6 class="text-weight-200 roboto margin-top-20px margin-bottom-15px text-white sm-text-weight-300">Cabina de fotos</h6>
+                        
+                            <a href="#" class="text-underline roboto no-margin text-weight-400 text-medium"></a>
+                        </div>
+                        <div class="col-lg-3 margin-top-20px">
+                            <span class="text-danger ext-center" data-uk-icon="icon: paint-bucket; ratio: 1.5"></span>
+                        
+                            <h6 class="text-weight-200 roboto margin-top-20px margin-bottom-15px text-white sm-text-weight-300">Álbum</h6>
+                        
+                            <a href="#" class="text-underline roboto no-margin text-weight-400 text-medium"></a>
+                        </div>
+                        <div class="col-lg-3 margin-top-20px">
+                            <span class="text-danger ext-center" data-uk-icon="icon: paint-bucket; ratio: 1.5"></span>
+                        
+                            <h6 class="text-weight-200 roboto margin-top-20px margin-bottom-15px text-white sm-text-weight-300">Estuche pendrive</h6>
+                        
+                            <a href="#" class="text-underline roboto no-margin text-weight-400 text-medium"></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
             </div>
         </div>
         `);
