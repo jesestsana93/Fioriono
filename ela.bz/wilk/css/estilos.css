@@ -82,3 +82,30 @@
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
   }
+
+
+.whatsapp {
+  position: fixed;
+  width: 60px;
+  height: 60px;
+  bottom: 40px;
+  left: 40px;
+  background-color: #25d366;
+  color: #fff;
+  border-radius: 50px;
+  text-align: center;
+  font-size: 30px;
+  z-index: 100;
+  color: white;
+}
+
+.whatsapp-icon {
+  margin-top: 13px;
+  color: white;
+}
+
+.tiktok::before{
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  content:"\e07b";
+}
