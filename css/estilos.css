@@ -121,3 +121,13 @@ a > h1{
 .text-lime{
   color: #E7242D;
 }
+
+.uk-transition-fade {
+  opacity: 1;
+}
+
+@media (min-width: 992px){
+  .uk-transition-fade {
+    opacity: 0;
+  }
+}
