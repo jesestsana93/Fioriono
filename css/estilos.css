@@ -110,3 +110,14 @@
   content:"\e07b";
 }
 
+a > h1{
+  background-color: #E7242D !important;
+  padding: 3px 10px;
+}
+
+.bg-lime{
+  background-color: #E7242D;
+}
+.text-lime{
+  color: #E7242D;
+}

@@ -32,10 +32,11 @@ $(function () {
             <!-- Social -->
             <div class="col-md-2 col-sm-6 col-xs-12 center-col padding-left-35px md-margin-bottom-50px sm-text-center xs-no-border-left xs-no-padding-left">
                 <h5 class="text-extra-large text-weight-300 text-white">Social</h5>
-                <ul class="list-unstyled no-margin-bottom">                
-                    <li class="margin-bottom-10px"><a class="text-small text-gray-light" href="https://www.facebook.com/gustavo.fiorino" target="_blank" title="Seguinos en facebook"><span data-uk-icon="icon: facebook; ratio: .8" class="margin-right-5px position-relative bottom-2 facebook"></span> Facebook</a></li>
-                    <li class="margin-bottom-10px"><a class="text-small text-gray-light" href="https://x.com/gustavofiorino?lang=es" target="_blank" title="Seguinos en twitter"><span data-uk-icon="icon: twitter; ratio: .8" class="margin-right-5px position-relative bottom-2 twitter"></span> Twitter</a></li>
-                    <li class="margin-bottom-10px"><a class="text-small text-gray-light" href="https://www.instagram.com/gustavofiorino/" target="_blank" title="Seguinos en instagram"><span data-uk-icon="icon: instagram; ratio: .8" class="margin-right-5px position-relative bottom-2 instagram"></span> Instagram</a></li>
+                <ul class="list-unstyled no-margin-bottom"> 
+                    <li class="margin-bottom-10px"><a class="text-small text-gray-light" href="https://www.instagram.com/gustavofiorino/" target="_blank" title="Seguinos en instagram"><i class="fab fa-instagram instagram mr-2"></i> Instagram</a></li>               
+                    <li class="margin-bottom-10px"><a class="text-small text-gray-light" href="https://www.tiktok.com/@gustavofiorino" target="_blank" title="Seguinos en TikTok"><i class="fab fa-tiktok mr-2"></i> TikTok</a></li>
+                    <li class="margin-bottom-10px"><a class="text-small text-gray-light" href="https://www.youtube.com/@GustavoFiorinoGF" target="_blank" title="Seguinos en YouTube"><i class="fab fa-youtube text-danger mr-2"></i>YouTube</a></li>
+                    
                 </ul>                
             </div>            
             
