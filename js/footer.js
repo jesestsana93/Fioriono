@@ -12,10 +12,8 @@ $(function () {
             <div class="col-md-3 col-sm-6 col-xs-12 center-col md-margin-bottom-50px sm-text-center">
                 <a href="#" class="margin-bottom-35px display-inline-block" data-uk-scroll><img src="images/fiorino.png" alt="" /></a>
                 
-                <p class="margin-bottom-10px text-small text-gray-light text-weight-400 width-90 md-width-100">Cras mattis consectetur purus lorem ipsum bro dolor too sit amet fermentum. Donec ullamcorper  mattis consectetur nulla non metus.</p>					
-                
-                <a class="text-small text-weight-400 text-gray-light right-border border-1 border-color-regular-gray padding-right-10px no-margin-bottom" href="#">Terms & Conditions</a>
-                <a class="text-small text-weight-400 text-gray-light padding-left-10px no-margin-bottom" href="#">Privacy Policy</a>                
+                <p class="margin-bottom-10px text-small text-gray-light text-weight-400 width-90 md-width-100">Productora de foto y video</p>
+               
             </div>
 
             <!-- Links -->
@@ -34,7 +32,7 @@ $(function () {
                 <h5 class="text-extra-large text-weight-300 text-white">Social</h5>
                 <ul class="list-unstyled no-margin-bottom"> 
                     <li class="margin-bottom-10px"><a class="text-small text-gray-light" href="https://www.instagram.com/gustavofiorino/" target="_blank" title="Seguinos en instagram"><i class="fab fa-instagram instagram mr-2"></i> Instagram</a></li>               
-                    <li class="margin-bottom-10px"><a class="text-small text-gray-light" href="https://www.tiktok.com/@gustavofiorino" target="_blank" title="Seguinos en TikTok"><i class="fab fa-tiktok mr-2"></i> TikTok</a></li>
+                    <li class="margin-bottom-10px"><a class="text-small text-gray-light" href="https://www.tiktok.com/@gustavofiorino" target="_blank" title="Seguinos en TikTok"><img src="images/tiktok.png" class="img-fluid mr-2" style="height:15px;" /> TikTok</a></li>
                     <li class="margin-bottom-10px"><a class="text-small text-gray-light" href="https://www.youtube.com/@GustavoFiorinoGF" target="_blank" title="Seguinos en YouTube"><i class="fab fa-youtube text-danger mr-2"></i>YouTube</a></li>
                     
                 </ul>                
@@ -87,14 +85,14 @@ $(function () {
         <div class="row bg-black padding-top-bottom-50px padding-left-right-twelve-percent">
             <!-- Copyright -->
             <div class="col-md-8 col-sm-12 col-xs-12">
-                <p class="no-margin-bottom text-small text-weight-400 sm-text-center sm-margin-bottom-20px">Copyright © 2024<span class="text-gray-regular">. Todos los derechos reservados.</span></p>
+                <p class="no-margin-bottom text-small text-weight-400 text-center sm-margin-bottom-20px">Copyright © 2024<span class="text-gray-regular">. Todos los derechos reservados.</span></p>
             </div> 
 
             <div class="col-md-4 col-sm-12 col-xs-12">            
                 <!-- Social Links for Footer -->
                 <ul class="list-unstyled text-right no-margin-bottom sm-text-center">
                     <li class="display-inline-block margin-right-25px"><a href="https://www.instagram.com/gustavofiorino/" target="_blank" title="Seguinos en instagram"><i class="fab fa-instagram instagram"></i></a></li>
-                    <li class="display-inline-block margin-right-25px"><a class="text-medium text-weight-700" href="https://www.tiktok.com/@gustavofiorino" target="_blank" title="Seguinos en tiktok"><i class="fab fa-tiktok text-white"></i></a></li>
+                    <li class="display-inline-block margin-right-25px"><a class="text-medium text-weight-700" href="https://www.tiktok.com/@gustavofiorino" target="_blank" title="Seguinos en tiktok"><img src="images/tiktok.png" class="img-fluid" style="height:15px;" /></a></li>
                     <li class="display-inline-block margin-right-25px"><a class="text-medium text-weight-700" href="https://www.youtube.com/@GustavoFiorinoGF" target="_blank" title="Seguinos en YouTube"><i class="fab fa-youtube text-danger"></i></a></li>                
                 </ul>
             </div>

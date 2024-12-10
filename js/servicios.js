@@ -27,7 +27,7 @@ $(function () {
                                 
                                 <span class="text-danger ext-center" data-uk-icon="icon: camera; ratio: 1.5"></span>
                                 
-                                <h6 class="text-weight-200 roboto margin-top-20px margin-bottom-15px text-white sm-text-weight-300">Invitaciones</h6>
+                                <h6 class="text-weight-200 roboto margin-top-20px margin-bottom-15px text-white sm-text-weight-300">Final de fiesta</h6>
                                 
                                 <a href="#" class="text-underline roboto no-margin text-weight-400 text-medium"></a>
 
@@ -40,7 +40,7 @@ $(function () {
                                 
                                 <span class="text-danger ext-center" data-uk-icon="icon: image; ratio: 1.5"></span>
                                 
-                                <h6 class="text-weight-200 roboto margin-top-20px margin-bottom-15px text-white sm-text-weight-300">Mural</h6>
+                                <h6 class="text-weight-200 roboto margin-top-20px margin-bottom-15px text-white sm-text-weight-300">Biografia express</h6>
                                 
                                 <a href="#" class="text-underline roboto no-margin text-weight-400 text-medium"></a>
 
@@ -54,7 +54,7 @@ $(function () {
                                 
                                 <span class="text-danger ext-center" data-uk-icon="icon: bolt; ratio: 1.5"></span>
                                 
-                                <h6 class="text-weight-200 roboto margin-top-20px margin-bottom-15px text-white sm-text-weight-300">Book</h6>
+                                <h6 class="text-weight-200 roboto margin-top-20px margin-bottom-15px text-white sm-text-weight-300">Drone</h6>
                                 
                                 <a href="#" class="text-underline roboto no-margin text-weight-400 text-medium"></a>
 
@@ -67,7 +67,7 @@ $(function () {
                                 
                                 <span class="text-danger ext-center" data-uk-icon="icon: tag; ratio: 1.5"></span>
                                 
-                                <h6 class="text-weight-200 roboto margin-top-20px margin-bottom-15px text-white sm-text-weight-300">Book digital</h6>
+                                <h6 class="text-weight-200 roboto margin-top-20px margin-bottom-15px text-white sm-text-weight-300">Invitación web</h6>
                                 
                                 <a href="#" class="text-underline roboto no-margin text-weight-400 text-medium"></a>
 
@@ -81,7 +81,7 @@ $(function () {
                                 
                                 <span class="text-danger ext-center" data-uk-icon="icon: video-camera; ratio: 1.5"></span>
                                 
-                                <h6 class="text-weight-200 roboto margin-top-20px margin-bottom-15px text-white sm-text-weight-300">Banner</h6>
+                                <h6 class="text-weight-200 roboto margin-top-20px margin-bottom-15px text-white sm-text-weight-300">360º</h6>
                                 
                                 <a href="#" class="text-underline roboto no-margin text-weight-400 text-medium"></a>
 
@@ -95,7 +95,7 @@ $(function () {
                                 
                                 <span class="text-danger ext-center" data-uk-icon="icon: paint-bucket; ratio: 1.5"></span>
                                 
-                                <h6 class="text-weight-200 roboto margin-top-20px margin-bottom-15px text-white sm-text-weight-300">Banner digital</h6>
+                                <h6 class="text-weight-200 roboto margin-top-20px margin-bottom-15px text-white sm-text-weight-300">Espejo mágico</h6>
                                 
                                 <a href="#" class="text-underline roboto no-margin text-weight-400 text-medium"></a>
 
@@ -111,63 +111,98 @@ $(function () {
                         <div class="col-md-6 col-lg-3 my-5">
                             <span class="text-danger ext-center" data-uk-icon="icon: paint-bucket; ratio: 1.5"></span>
                         
-                            <h6 class="text-weight-200 roboto margin-top-20px margin-bottom-15px text-white sm-text-weight-300">Silueta</h6>
+                            <h6 class="text-weight-200 roboto margin-top-20px margin-bottom-15px text-white sm-text-weight-300">Back de entrada</h6>
                         
                             <a href="#" class="text-underline roboto no-margin text-weight-400 text-medium"></a>
                         </div>
                         <div class="col-md-6 col-lg-3 my-5">
                             <span class="text-danger ext-center" data-uk-icon="icon: paint-bucket; ratio: 1.5"></span>
                         
-                            <h6 class="text-weight-200 roboto margin-top-20px margin-bottom-15px text-white sm-text-weight-300">Lámina</h6>
+                            <h6 class="text-weight-200 roboto margin-top-20px margin-bottom-15px text-white sm-text-weight-300">Habia una vez</h6>
                         
                             <a href="#" class="text-underline roboto no-margin text-weight-400 text-medium"></a>
                         </div>
                         <div class="col-md-6 col-lg-3 my-5">
                             <span class="text-danger ext-center" data-uk-icon="icon: paint-bucket; ratio: 1.5"></span>
                         
-                            <h6 class="text-weight-200 roboto margin-top-20px margin-bottom-15px text-white sm-text-weight-300">Postales</h6>
+                            <h6 class="text-weight-200 roboto margin-top-20px margin-bottom-15px text-white sm-text-weight-300">Cabina foto</h6>
                         
                             <a href="#" class="text-underline roboto no-margin text-weight-400 text-medium"></a>
                         </div>
                         <div class="col-md-6 col-lg-3 my-5">
                             <span class="text-danger ext-center" data-uk-icon="icon: paint-bucket; ratio: 1.5"></span>
                         
-                            <h6 class="text-weight-200 roboto margin-top-20px margin-bottom-15px text-white sm-text-weight-300">Número de mesa</h6>
+                            <h6 class="text-weight-200 roboto margin-top-20px margin-bottom-15px text-white sm-text-weight-300">Cabina mensajes</h6>
                         
                             <a href="#" class="text-underline roboto no-margin text-weight-400 text-medium"></a>
                         </div>
                         <div class="col-md-6 col-lg-3 my-5">
                             <span class="text-danger ext-center" data-uk-icon="icon: paint-bucket; ratio: 1.5"></span>
                         
-                            <h6 class="text-weight-200 roboto margin-top-20px margin-bottom-15px text-white sm-text-weight-300">Fotolog</h6>
+                            <h6 class="text-weight-200 roboto margin-top-20px margin-bottom-15px text-white sm-text-weight-300">Draw my life</h6>
                         
                             <a href="#" class="text-underline roboto no-margin text-weight-400 text-medium"></a>
                         </div>
                         <div class="col-md-6 col-lg-3 my-5">
                             <span class="text-danger ext-center" data-uk-icon="icon: paint-bucket; ratio: 1.5"></span>
                         
-                            <h6 class="text-weight-200 roboto margin-top-20px margin-bottom-15px text-white sm-text-weight-300">Foto express</h6>
+                            <h6 class="text-weight-200 roboto margin-top-20px margin-bottom-15px text-white sm-text-weight-300">Save the date</h6>
                         
                             <a href="#" class="text-underline roboto no-margin text-weight-400 text-medium"></a>
                         </div>
                         <div class="col-md-6 col-lg-3 my-5">
                             <span class="text-danger ext-center" data-uk-icon="icon: paint-bucket; ratio: 1.5"></span>
                         
-                            <h6 class="text-weight-200 roboto margin-top-20px margin-bottom-15px text-white sm-text-weight-300">Cabina de fotos</h6>
+                            <h6 class="text-weight-200 roboto margin-top-20px margin-bottom-15px text-white sm-text-weight-300">Invitación web</h6>
                         
                             <a href="#" class="text-underline roboto no-margin text-weight-400 text-medium"></a>
                         </div>
                         <div class="col-md-6 col-lg-3 my-5">
                             <span class="text-danger ext-center" data-uk-icon="icon: paint-bucket; ratio: 1.5"></span>
                         
-                            <h6 class="text-weight-200 roboto margin-top-20px margin-bottom-15px text-white sm-text-weight-300">Álbum</h6>
+                            <h6 class="text-weight-200 roboto margin-top-20px margin-bottom-15px text-white sm-text-weight-300">Albumes</h6>
                         
                             <a href="#" class="text-underline roboto no-margin text-weight-400 text-medium"></a>
                         </div>
                         <div class="col-md-6 col-lg-3 mt-lg-5">
                             <span class="text-danger ext-center" data-uk-icon="icon: paint-bucket; ratio: 1.5"></span>
                         
-                            <h6 class="text-weight-200 roboto margin-top-20px margin-bottom-15px text-white sm-text-weight-300">Estuche pendrive</h6>
+                            <h6 class="text-weight-200 roboto margin-top-20px margin-bottom-15px text-white sm-text-weight-300">Shimmer</h6>
+                        
+                            <a href="#" class="text-underline roboto no-margin text-weight-400 text-medium"></a>
+                        </div>
+                        <div class="col-md-6 col-lg-3 mt-lg-5">
+                            <span class="text-danger ext-center" data-uk-icon="icon: paint-bucket; ratio: 1.5"></span>
+                        
+                            <h6 class="text-weight-200 roboto margin-top-20px margin-bottom-15px text-white sm-text-weight-300">Grua</h6>
+                        
+                            <a href="#" class="text-underline roboto no-margin text-weight-400 text-medium"></a>
+                        </div>
+                        <div class="col-md-6 col-lg-3 mt-lg-5">
+                            <span class="text-danger ext-center" data-uk-icon="icon: paint-bucket; ratio: 1.5"></span>
+                        
+                            <h6 class="text-weight-200 roboto margin-top-20px margin-bottom-15px text-white sm-text-weight-300">Postales/Polaroid</h6>
+                        
+                            <a href="#" class="text-underline roboto no-margin text-weight-400 text-medium"></a>
+                        </div>
+                        <div class="col-md-6 col-lg-3 mt-lg-5">
+                            <span class="text-danger ext-center" data-uk-icon="icon: paint-bucket; ratio: 1.5"></span>
+                        
+                            <h6 class="text-weight-200 roboto margin-top-20px margin-bottom-15px text-white sm-text-weight-300">Banner</h6>
+                        
+                            <a href="#" class="text-underline roboto no-margin text-weight-400 text-medium"></a>
+                        </div>
+                        <div class="col-md-6 col-lg-3 mt-lg-5">
+                            <span class="text-danger ext-center" data-uk-icon="icon: paint-bucket; ratio: 1.5"></span>
+                        
+                            <h6 class="text-weight-200 roboto margin-top-20px margin-bottom-15px text-white sm-text-weight-300">Foto Iman</h6>
+                        
+                            <a href="#" class="text-underline roboto no-margin text-weight-400 text-medium"></a>
+                        </div>
+                        <div class="col-md-6 col-lg-3 mt-lg-5">
+                            <span class="text-danger ext-center" data-uk-icon="icon: paint-bucket; ratio: 1.5"></span>
+                        
+                            <h6 class="text-weight-200 roboto margin-top-20px margin-bottom-15px text-white sm-text-weight-300">Clip</h6>
                         
                             <a href="#" class="text-underline roboto no-margin text-weight-400 text-medium"></a>
                         </div>

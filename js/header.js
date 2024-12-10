@@ -12,7 +12,7 @@ $(function () {
         <div class="navbar-dark" data-uk-sticky>
             <nav class="uk-navbar-container" data-uk-navbar="boundary-align: true; align: center;">
                 <div class="uk-navbar-left padding-left-two-percent ">
-                    <a class="uk-navbar-item uk-logo" href="index.html" ><img src="images/fiorino.png" alt="" /></a>
+                    <a class="uk-navbar-item logo-fiorino" href="index.html" ><img src="images/fiorino.png" alt="" /></a>
                 </div>
 
                 <div class="uk-navbar-right uk-light padding-right-two-percent">
@@ -49,7 +49,7 @@ $(function () {
                         </li>	
                         <li class="d-none d-xl-flex"><a class="uk-visible@m" href="https://www.instagram.com/gustavofiorino/" target="_blank" title="Seguinos en instagram"><i class="fab fa-instagram instagram"></i></a></li>
                         <li class="d-none d-xl-flex"><a class="uk-visible@m" href="https://www.tiktok.com/@gustavofiorino" target="_blank"  title="Seguinos en tiktok">
-                            <i class="fab fa-tiktok"></i> 
+                            <img src="images/tiktok.png" class="img-fluid" style="height:15px;" /> 
                         </a></li>
                         <li class="d-none d-xl-flex"><a class="uk-visible@m" href="https://www.youtube.com/@GustavoFiorinoGF" target="_blank" title="Seguinos en YouTube"><i class="fab fa-youtube text-danger"></i></a></li>
                         
