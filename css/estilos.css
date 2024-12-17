@@ -1,3 +1,6 @@
+body, p, button, [type="button"], [type="submit"], textarea{
+  font-family: 'Lato' !important;
+}
 .contenedor-video,
 .menu-lateral {
   position: fixed;
@@ -104,16 +107,26 @@
   color: white;
 }
 
-.tiktok::before{
-  font-family: "Font Awesome 5 Free";
-  font-weight: 900;
-  content:"\e07b";
+/******************** INICIO  ******************** /
+
+/*********** TITULO DE SECCIONES EN INICIO ***************/
+a > h1{
+  background-color: #0606068A !important;
+  padding: 11px 10px;
+  text-transform: uppercase;
 }
 
-a > h1{
-  background-color: #E7242D !important;
-  padding: 3px 10px;
+.titulo-seccion{
+  font-size: 24px;
 }
+/*Dimensiones para el logo de Fiorino en el header*/
+.logo-fiorino{
+  width: 340px;
+}
+.logo-fiorino-index{
+  width: 400px;
+}
+
 
 .bg-lime{
   background-color: #E7242D;
@@ -131,6 +144,17 @@ a > h1{
     opacity: 0;
   }
 }
-.logo-fiorino{
-  width: 340px;
+
+
+.btn-servicios,
+.btn-servicios:hover{
+  display: block;
+  background-color: white;
+  color: black;
+  border: 1px solid red;
+  margin-top: 6px;
+}
+
+.btn-primary.focus, .btn-primary:focus {
+  box-shadow: 0 0 0 .2rem transparent;
 }

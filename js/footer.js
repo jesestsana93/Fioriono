@@ -10,9 +10,9 @@ $(function () {
         $("footer").append(`    
         <div class="row bg-gray-extra-dark padding-left-right-twelve-percent padding-top-bottom-150px">
             <div class="col-md-3 col-sm-6 col-xs-12 center-col md-margin-bottom-50px sm-text-center">
-                <a href="#" class="margin-bottom-35px display-inline-block" data-uk-scroll><img src="images/fiorino.png" alt="" /></a>
+                <a href="#" class="margin-bottom-35px display-inline-block" data-uk-scroll><img src="images/fiorino.png" class="img-fluid" alt="" /></a>
                 
-                <p class="margin-bottom-10px text-small text-gray-light text-weight-400 width-90 md-width-100">Productora de foto y video</p>
+                <p class="margin-bottom-10px text-small text-gray-light text-weight-400 width-90 md-width-100 text-center">Productora de foto y video</p>
                
             </div>
 

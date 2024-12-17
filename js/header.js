@@ -12,13 +12,16 @@ $(function () {
         <div class="navbar-dark" data-uk-sticky>
             <nav class="uk-navbar-container" data-uk-navbar="boundary-align: true; align: center;">
                 <div class="uk-navbar-left padding-left-two-percent ">
-                    <a class="uk-navbar-item logo-fiorino" href="index.html" ><img src="images/fiorino.png" alt="" /></a>
+                    <a class="uk-navbar-item logo-fiorino" href="index.html" ><img src="images/fiorino.png" class="img-fluid" alt="" /></a>
                 </div>
 
                 <div class="uk-navbar-right uk-light padding-right-two-percent">
                     <ul class="uk-navbar-nav text-weight-300">
                         <li class="d-none d-xl-flex">
                             <a class="uk-visible@m" href="index.html" >Inicio</a>
+                        </li>
+                        <li class="d-none d-xl-flex">
+                            <a class="uk-visible@m" href="#nosotros" data-uk-scroll >Nosotros</a>
                         </li>							
                         <li class="d-none d-xl-flex">
                             <a class="text-gray-extra-light text-extra-small uk-visible@l" href="#">Trabajos</a>
@@ -42,7 +45,7 @@ $(function () {
                             <a class="uk-visible@m" href="#services" data-uk-scroll>Servicios adicionales</a>
                         </li>
                         <li class="d-none d-xl-flex">							
-                            <a class="uk-visible@m" href="#reviews" data-uk-scroll>Reviews</a>
+                            <a class="uk-visible@m" href="#agradecimientos" data-uk-scroll>Agradecimientos</a>
                         </li>							
                         <li class="d-none d-xl-flex">
                             <a class="uk-visible@m" href="#contact" data-uk-scroll>Contacto</a>
@@ -75,6 +78,9 @@ $(function () {
                 <li class="margin-bottom-10px">
                     <a href="index.html" class="bottom-border border-1px border-color-gray-extra-dark" ><span class="text-small text-white roboto text-weight-300 padding-bottom-20px">Inicio</span></a>
                 </li>
+                <li class="margin-bottom-10px">
+                <a href="#nosotros" class="bottom-border border-1px border-color-gray-extra-dark" ><span class="text-small text-white roboto text-weight-300 padding-bottom-20px">Nosotros</span></a>
+            </li>
                 
                 <li class="uk-parent margin-bottom-10px">
                     <a href="#" class="bottom-border border-1px border-color-gray-extra-dark"><span class="text-small text-white roboto text-weight-300 padding-bottom-20px">Trabajos</span></a>
@@ -92,7 +98,7 @@ $(function () {
                 </li>					
                 
                 <li class="margin-bottom-10px">
-                    <a href="#services" class="bottom-border border-1px border-color-gray-extra-dark" data-uk-scroll><span class="text-small text-white roboto text-weight-300 padding-bottom-20px">Reviews</span></a>
+                    <a href="#agradecimientos" class="bottom-border border-1px border-color-gray-extra-dark" data-uk-scroll><span class="text-small text-white roboto text-weight-300 padding-bottom-20px">Agradecimientos</span></a>
                 </li>
 
                 <li class="margin-bottom-10px">
