@@ -1,4 +1,4 @@
-body, p, button, [type="button"], [type="submit"], textarea{
+body, p, button, [type="button"], [type="submit"], textarea, a{
   font-family: 'Lato' !important;
 }
 .contenedor-video,
@@ -157,4 +157,30 @@ a > h1{
 
 .btn-primary.focus, .btn-primary:focus {
   box-shadow: 0 0 0 .2rem transparent;
+}
+
+.servicios{
+  font-size: 80px !important;
+}
+
+.image-bg{
+  background: url(../images/contacto/l&a0514.jpg); 
+}
+.image-bg-2{
+  background: url(../images/boda/medianas/JPEG/a&s0271.jpg); 
+}
+.image-bg-3{
+  background: url(../images/15-anios/book/medianas/JPEG/luz0232.jpg); 
+}
+.image-bg-4{
+  background: url(../images/celebraciones/medianas/JPEG/Jorge0337.jpg); 
+}
+.image-bg-5{
+  background: url(../images/empresariales/); 
+}
+.image-bg-6{
+  background: url(../images/15-anios/fiesta/medianas/JPEG/feli0586.jpg); 
+}
+.image-bg-7{
+  background: url(../images/bar-bat/medianas/JPEG/DSC_238.jpg); 
 }

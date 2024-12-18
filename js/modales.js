@@ -30,7 +30,7 @@ $(function () {
 						<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
 					</div>
 					<div class="modal-body">
-						...
+					Lorem ipsum odor amet, consectetuer adipiscing elit. Arcu morbi quisque mus himenaeos cras placerat. Conubia iaculis purus hac curabitur hendrerit sodales scelerisque elit. Ultricies etiam dis vel scelerisque porta. Nostra sed conubia eu felis ante vulputate purus orci. Placerat iaculis ante et porttitor; lobortis sem donec semper. Porttitor massa vitae dignissim enim luctus dapibus praesent. Ornare parturient varius mi lobortis nostra nisi.
 					</div>
 				</div>
 			</div>

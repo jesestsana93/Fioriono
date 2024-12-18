@@ -28,14 +28,14 @@ $(function () {
                                     <div class="col-md-6 col-sm-12 col-xs-12">
                                         <div class="form-group">
                                             <p class="text-gradient-gold text-weight-400 margin-bottom-10px">Nombre(s) *</p>
-                                            <input class="form-control form_name no-margin-top padding-10px text-white text-weight-400 roboto bg-transparent border-color-gray-extra-dark" type="text" name="nombres"  placeholder="Nombre(s)" required="required">
+                                            <input class="form-control form_name no-margin-top padding-10px text-white text-weight-400 bg-transparent border-color-gray-extra-dark" type="text" name="nombres"  placeholder="Nombre(s)" required="required">
                                             <div class="help-block with-errors"></div>
                                         </div>
                                     </div>
                                     <div class="col-md-6">
                                         <div class="form-group">
                                             <p class="text-gradient-gold text-weight-400 margin-bottom-10px">Apellidos *</p>
-                                            <input class="form-control form_name no-margin-top padding-10px text-white text-weight-400 roboto bg-transparent border-color-gray-extra-dark" type="text" name="apellidos"  placeholder="Apellidos" required="required">
+                                            <input class="form-control form_name no-margin-top padding-10px text-white text-weight-400 bg-transparent border-color-gray-extra-dark" type="text" name="apellidos"  placeholder="Apellidos" required="required">
                                             <div class="help-block with-errors"></div>
                                         </div>
                                     </div>
@@ -44,21 +44,21 @@ $(function () {
                                     <div class="col-md-6">
                                         <div class="form-group">
                                             <p class="text-gradient-gold text-weight-400 margin-bottom-10px">Correo electrónico *</p>
-                                            <input class="form-control form_name no-margin-top padding-10px text-white text-weight-400 roboto bg-transparent border-color-gray-extra-dark" type="email" name="correo" placeholder="Correo electrónico" required="required" data-error="Valid email is required.">
+                                            <input class="form-control form_name no-margin-top padding-10px text-white text-weight-400 bg-transparent border-color-gray-extra-dark" type="email" name="correo" placeholder="Correo electrónico" required="required" data-error="Valid email is required.">
                                             <div class="help-block with-errors"></div>
                                         </div>
                                     </div>
                                     <div class="col-md-6">
                                         <div class="form-group">
                                             <p class="text-gradient-gold text-weight-400 margin-bottom-10px">Número telefónico *</p>
-                                            <input class="form-control form_name no-margin-top padding-10px text-white text-weight-400 roboto bg-transparent border-color-gray-extra-dark" type="tel" name="telefono" placeholder="Número telefónico">
+                                            <input class="form-control form_name no-margin-top padding-10px text-white text-weight-400 bg-transparent border-color-gray-extra-dark" type="tel" name="telefono" placeholder="Número telefónico">
                                             <div class="help-block with-errors"></div>
                                         </div>
                                     </div>
                                     <div class="col-md-12">
                                         <div class="form-group">
                                             <p class="text-gradient-gold text-weight-400 margin-bottom-20px">Mensaje *</p>
-                                            <textarea class="form-control form_message no-margin-top padding-10px text-white text-weight-400 roboto bg-transparent border-color-gray-extra-dark" name="mensaje" type="text" placeholder="Mensaje..." rows="4" required="required" data-error="Please,leave us a message."></textarea>
+                                            <textarea class="form-control form_message no-margin-top padding-10px text-white text-weight-400 bg-transparent border-color-gray-extra-dark" name="mensaje" type="text" placeholder="Mensaje..." rows="4" required="required" data-error="Please,leave us a message."></textarea>
                                             
                                             <div class="help-block with-errors"></div>
                                         </div>
@@ -69,21 +69,21 @@ $(function () {
                                     <div class="col-md-6">
                                         <div class="form-group">
                                             <p class="text-gradient-gold text-weight-400 margin-bottom-10px">Fecha de fiesta *</p>
-                                            <input class="form-control form_name no-margin-top padding-10px text-white text-weight-400 roboto bg-transparent border-color-gray-extra-dark" type="date" name="fecha_fiesta" placeholder="Fecha de fiesta" required="required" >
+                                            <input class="form-control form_name no-margin-top padding-10px text-white text-weight-400 bg-transparent border-color-gray-extra-dark" type="date" name="fecha_fiesta" placeholder="Fecha de fiesta" required="required" >
                                             <div class="help-block with-errors"></div>
                                         </div>
                                     </div>
                                     <div class="col-md-6">
                                         <div class="form-group">
                                             <p class="text-gradient-gold text-weight-400 margin-bottom-10px">Cantidad de invitados *</p>
-                                            <input class="form-control form_name no-margin-top padding-10px text-white text-weight-400 roboto bg-transparent border-color-gray-extra-dark" type="number" name="invitados" placeholder="Cantidad de invitados">
+                                            <input class="form-control form_name no-margin-top padding-10px text-white text-weight-400 bg-transparent border-color-gray-extra-dark" type="number" name="invitados" placeholder="Cantidad de invitados">
                                             <div class="help-block with-errors"></div>
                                         </div>
                                     </div>
                                     <div class="col-md-12">
                                         <div class="form-group">
                                             <p class="text-gradient-gold text-weight-400 margin-bottom-10px">¿Cómo nos conociste? *</p>
-                                            <input class="form-control form_name no-margin-top padding-10px text-white text-weight-400 roboto bg-transparent border-color-gray-extra-dark" type="text" name="como_nos_conociste" placeholder="¿Cómo nos conociste?" required="required">
+                                            <input class="form-control form_name no-margin-top padding-10px text-white text-weight-400 bg-transparent border-color-gray-extra-dark" type="text" name="como_nos_conociste" placeholder="¿Cómo nos conociste?" required="required">
                                             <div class="help-block with-errors"></div>
                                         </div>
                                     </div>
