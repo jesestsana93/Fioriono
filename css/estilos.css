@@ -234,8 +234,14 @@ a > h1{
   background: url(../images/servicios/); 
 }
 
-
-/*Play de youtube en fotos*/
-/* .uk-icon > * {
-  transform: translate(160px,100px);
-} */
+.modal-content {
+  color: white;
+  background-color: black;
+  border: 1px solid white;
+}
+.modal-title{
+  color: red;
+}
+.btn-close{
+  color: white !important;
+}
