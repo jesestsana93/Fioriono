@@ -16,7 +16,25 @@ $(function () {
 						<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
 					</div>
 					<div class="modal-body">
-                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+						<a href="https://www.youtube.com/watch?v=cKM-TFbCTLg" target="_blank">
+							<div class="uk-inline-clip uk-transition-toggle" tabindex="0" >
+							<!-- Image -->
+							<img src="../../../images/miniaturas/habia-una-vez.jpeg" alt="habia-una-vez" class="img-fluid"/>
+							
+							
+								<div class="uk-position-top-left margin-50px">
+									<span data-uk-icon="icon: play; ratio: 2.4" class="text-lime margin-right-10px" style="transform: translate(160px,100px); border: 1px solid red; border-radius: 10px; padding: 0px 7px;background-color: red; color: white;"></span>
+								</div>
+								<!-- Title -->
+								<div class="uk-position-bottom-left margin-50px">
+									<!-- <h1 class="text-weight-200 text-gradient-gold sm-text-weight-300">Empresas</h1> -->
+								</div><!-- End Title -->
+							
+							
+						</a>
+
+
+
 					</div>
 				</div>
 			</div>

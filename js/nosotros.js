@@ -12,7 +12,7 @@ $(function () {
             <div class="row">
                 <div class="col-12 center-col text-center uk-flex uk-flex-middle" data-uk-scrollspy="cls: uk-animation-slide-right-medium; target: > div ; delay: 50; repeat: false">
                     <div class="text-left sm-text-center sm-width-100">
-                        <h1 class="title-extra-large text-weight-200 text-gradient-gold sm-width-90 margin-bottom-20px sm-margin-left-right-auto sm-text-weight-300 seccion birdHouse">Nosotros</h1>
+                        <h1 class="text-weight-200 text-gradient-gold sm-width-90 margin-bottom-20px sm-margin-left-right-auto sm-text-weight-300 seccion birdHouse">Nosotros</h1>
 
                         <p style="font-size:18px;">Fundada en 1988, Gustavo Fiorino comenzó como un sueño personal que se transformó en una productora familiar con más de tres décadas de experiencia. <br> Con pasión por la imagen y un compromiso constante con la calidad, nos especializamos en crear recuerdos visuales de manera artesanal.</p>
 

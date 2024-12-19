@@ -12,7 +12,7 @@ $(function () {
             <div class="row margin-bottom-75px" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; target: > div ; delay: 150; repeat: false">
                 <div class="col-12 center-col text-center" data-uk-scrollspy="cls: uk-animation-slide-left-medium; target: > div ; delay: 50; repeat: false">
                 
-                    <h1 class="title-extra-large text-weight-200 sm-width-90 margin-bottom-10px sm-margin-left-right-auto text-gradient-gold sm-text-weight-300 seccion birdHouse">Agradecimientos</h1>
+                    <h1 class="text-weight-200 sm-width-90 margin-bottom-10px sm-margin-left-right-auto text-gradient-gold sm-text-weight-300 seccion birdHouse">Reseñas</h1>
                 
                     <div class="separator width-30px center-col bottom-border border-2px border-color-gray-dark margin-top-bottom-30px sm-margin-left-right-auto"></div>
 
@@ -64,7 +64,7 @@ $(function () {
                                     
                                     <div class="separator width-30px center-col bottom-border border-2px border-color-gray-dark margin-top-bottom-30px sm-margin-left-right-auto"></div>
                                     
-                                    <p class="text-weight-300 text-extra-large text-gray-light margin-bottom-5px">Gabriel Palestrini</p>
+                                    <p class="text-weight-300 text-extra-large text-gray-light margin-bottom-5px">Ana y Gabriel</p>
 
                                     <p class="text-light-blue text-weight-400 text-medium margin-bottom-5px"></p>
                                 </div>

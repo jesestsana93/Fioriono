@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'BirdHouse';
-  src: url("fonts/OTF/Bird House Script.otf") format("otf");
-  src: url("fonts/TTF/Bird House Script.ttf") format("truetype");
+  src: url("/fonts/OTF/Bird.otf") format("opentype"),
+       url("/fonts/TTF/Bird.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
@@ -11,16 +11,13 @@
 body, p, button, [type="button"], [type="submit"], textarea, a{
   font-family: 'Lato' !important;
 }
-.birdHouse{
-  font-family: 'BirdHouse' !important;
-  font-weight: 400;
-  font-style: normal;
-}
+
 .seccion {
   font-family: 'BirdHouse' !important;
   font-weight: 400;
   font-style: normal;
-  font-size: 80px !important;
+  font-size: 160px !important;
+  text-align: center;
 }
 .contenedor-video,
 .menu-lateral {
@@ -200,38 +197,72 @@ a > h1{
 }
 /*Imagenes de portadas*/
 .image-bg{ /*Book*/
-  background: url(../images/portadas/15-anios/book/1.png); 
+  background: url(../images/portadas/15-anios/book/2.png); 
+  background-position: center;
+  background-size: cover;
 }
 .image-bg-2{ /*Fiesta*/
   background: url(../images/portadas/15-anios/fiesta/1.png); 
 }
 .image-bg-3{ /*Bodas*/
-  background: url(../images/portadas/bodas/1.png); 
+  background: url(../images/portadas/bodas/2.png); 
 }
 .image-bg-4{ /*Bar bat*/
   background: url(../images/bar-bat/medianas/JPEG/DSC_238.jpg); 
+  background-position: top left;
+  background-size: cover;
 }
 
 .image-bg-5{ /*Celebraciones*/
-  background: url(../images/celebraciones/medianas/JPEG/Jorge0337.jpg); 
+  background: url(../images/portadas/celebraciones/1.png); 
 }
 .image-bg-6{ /*Empresariales*/
   background: url(../images/empresariales/); 
 }
 
 
+.overlay-black:after{
+    opacity: 0.629 !important; 
+}
+.overlay-black-celebraciones:after{
+    content: '';
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    position: absolute;
+    z-index: -1;
+
+}
+.overlay-black-celebraciones:after{
+  background: #000;
+  opacity: 0.82 !important; 
+}
+
+
 /*Fondos de secciones*/
 .image-bg-7{ /*Nosotros*/
   background: url(../images/portadas/Fondos/Nosotros/Nosotros.jpeg); 
+  background-position: center;
+  background-size: cover;
+  color: rgba(255,255,255,.8);
 }
 .image-bg-8{ /*Contacto*/
-  background: url(../images/contacto/l&a0514.jpg); 
+  background: url(../images/portadas/Fondos/BlancoyNegro86.jpg); 
+  background-position: center;
+  background-size: cover;
 } 
 .image-bg-9{ /*Agradecimientos*/
-  background: url(../images/agradecimientos); 
+  background: url(../images/portadas/Fondos/Lucia0778.jpg); 
+  background-position: center;
+  background-size: cover;
+  color: rgba(255,255,255,.8);
 }
 .image-bg-10{ /*Servicios*/
-  background: url(../images/servicios/); 
+  background: url(../images/portadas/Fondos/Valentina0399.jpg); 
+  background-position: center;
+  background-size: cover;
+  color: rgba(255,255,255,.8);
 }
 
 .modal-content {
@@ -242,6 +273,6 @@ a > h1{
 .modal-title{
   color: red;
 }
-.btn-close{
-  color: white !important;
+.modal-content {
+  border: 1px solid red;
 }
