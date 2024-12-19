@@ -41,9 +41,9 @@ $(function () {
             
             <!-- Galeria -->
             <div class="col-md-3 col-sm-6 col-xs-12 center-col padding-bottom-10px md-no-border-right sm-text-center xs-no-border-left xs-no-padding-left xs-no-padding-bottom">
-                <h5 class="text-extra-large text-weight-300 text-white">Galeria</h5>
+                <h5 class="text-extra-large text-weight-300 text-white">Estudio</h5>
                 <div class="uk-grid-small uk-child-width-1-3" data-uk-grid data-uk-lightbox="animation: fade">
-                    <div>
+                    <!-- <div>
                         <a href="images/Seleccion/06fiesta00013.JPG" data-caption="Caption 1">
                             <img src="images/Seleccion/06fiesta00013.JPG" alt="">
                         </a>
@@ -72,13 +72,14 @@ $(function () {
                         <a class="uk-inline" href="images/Seleccion/YPO BA 0525.jpg" data-caption="Caption 1">
                             <img src="images/Seleccion/YPO BA 0525.jpg" alt="">
                         </a>
-                    </div>
+                    </div> -->
                 </div>
-
-                <p class="mt-2">Showroom
-                    (+5411) 4307-3322 / Alicia M. de Justo 2030 Oficina 234. Puerto Madero - CABA. Argentina</p>
-                <p class="mt-2">Estudio
-                    (+5411) 4519-5615 / Av. Montes de Oca 251 Piso 4 oficina 148. CABA. Argentina</p>
+               
+                <p class="mt-2">
+                    <i class="fas fa-map-marker-alt mr-2"></i>
+                    Av. Montes de Oca 251 Piso 4 oficina 148. CABA. Argentina</p>
+                <p> <i class="fas fa-phone mr-2"></i> (+5411) 4519-5615 <br> 
+                <i class="fas fa-phone mr-2"></i> (+5411) 4307-3322  </p>
             </div>
         </div>
         

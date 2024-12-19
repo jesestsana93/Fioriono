@@ -11,7 +11,7 @@ $(function () {
         <div class="container">
             <div class="row margin-bottom-75px" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; target: > div ; delay: 150; repeat: false">
                 <div class="col-md-8 col-sm-12 col-xs-12 center-col text-center" data-uk-scrollspy="cls: uk-animation-slide-left-medium; target: > div ; delay: 50; repeat: false">
-                    <h1 class="title-extra-large text-weight-200 sm-width-90 margin-bottom-10px sm-margin-left-right-auto text-gradient-gold sm-text-weight-300">Contacto</h1>
+                    <h1 class="title-extra-large text-weight-200 sm-width-90 margin-bottom-10px sm-margin-left-right-auto text-gradient-gold sm-text-weight-300 seccion birdHouse">Contacto</h1>
                     <div class="separator width-30px center-col bottom-border border-2px border-color-gray-dark margin-top-bottom-30px sm-margin-left-right-auto"></div>
                     <h6 class="text-weight-200 roboto text-white margin-left-right-auto no-margin-bottom"></span></h6>
                 </div>
@@ -66,14 +66,21 @@ $(function () {
                                 </div>
                                 
                                 <div class="row">
-                                    <div class="col-md-6">
+                                    <div class="col-md-4">
                                         <div class="form-group">
                                             <p class="text-gradient-gold text-weight-400 margin-bottom-10px">Fecha de fiesta *</p>
                                             <input class="form-control form_name no-margin-top padding-10px text-white text-weight-400 bg-transparent border-color-gray-extra-dark" type="date" name="fecha_fiesta" placeholder="Fecha de fiesta" required="required" >
                                             <div class="help-block with-errors"></div>
                                         </div>
                                     </div>
-                                    <div class="col-md-6">
+                                    <div class="col-md-4">
+                                        <div class="form-group">
+                                            <p class="text-gradient-gold text-weight-400 margin-bottom-10px">Tipo de fiesta *</p>
+                                            <input class="form-control form_name no-margin-top padding-10px text-white text-weight-400 bg-transparent border-color-gray-extra-dark" type="text" name="tipo_fiesta" placeholder="Tipo de fiesta">
+                                            <div class="help-block with-errors"></div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4">
                                         <div class="form-group">
                                             <p class="text-gradient-gold text-weight-400 margin-bottom-10px">Cantidad de invitados *</p>
                                             <input class="form-control form_name no-margin-top padding-10px text-white text-weight-400 bg-transparent border-color-gray-extra-dark" type="number" name="invitados" placeholder="Cantidad de invitados">

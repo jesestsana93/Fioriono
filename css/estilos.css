@@ -1,5 +1,26 @@
+@font-face {
+  font-family: 'BirdHouse';
+  src: url("fonts/OTF/Bird House Script.otf") format("otf");
+  src: url("fonts/TTF/Bird House Script.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Birthstone&display=swap');
+
 body, p, button, [type="button"], [type="submit"], textarea, a{
   font-family: 'Lato' !important;
+}
+.birdHouse{
+  font-family: 'BirdHouse' !important;
+  font-weight: 400;
+  font-style: normal;
+}
+.seccion {
+  font-family: 'BirdHouse' !important;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 80px !important;
 }
 .contenedor-video,
 .menu-lateral {
@@ -45,7 +66,12 @@ body, p, button, [type="button"], [type="submit"], textarea, a{
 .menu-lateral-fiorino ul li a:hover{
     color: rgb(221, 32, 39);
 }
-
+#return-to-top span {
+  color: rgb(221, 32, 39);
+}
+.bg-gold {
+  background-color: rgb(221, 32, 39);
+}
 .menu-lateral-fiorino2 {
     top: 50%; 
     height: 100vh;
@@ -145,14 +171,24 @@ a > h1{
   }
 }
 
-
+/*Servicios*/
 .btn-servicios,
-.btn-servicios:hover{
+.btn-servicios:hover,
+.btn-servicios:focus,
+.btn-primary:not(:disabled):not(.disabled):active,
+.btn:focus-visible,
+.btn-primary:not(:disabled):not(.disabled):active:focus{
   display: block;
-  background-color: white;
-  color: black;
-  border: 1px solid red;
+  background-color: transparent;
+  border: 1px solid transparent;
+  text-transform: none;
   margin-top: 6px;
+  font-size: 30px;
+  font-weight: 200;
+  box-shadow: none;
+}
+.img-servicio{
+  width: 60px;
 }
 
 .btn-primary.focus, .btn-primary:focus {
@@ -162,25 +198,44 @@ a > h1{
 .servicios{
   font-size: 80px !important;
 }
-
-.image-bg{
-  background: url(../images/contacto/l&a0514.jpg); 
+/*Imagenes de portadas*/
+.image-bg{ /*Book*/
+  background: url(../images/portadas/15-anios/book/1.png); 
 }
-.image-bg-2{
-  background: url(../images/boda/medianas/JPEG/a&s0271.jpg); 
+.image-bg-2{ /*Fiesta*/
+  background: url(../images/portadas/15-anios/fiesta/1.png); 
 }
-.image-bg-3{
-  background: url(../images/15-anios/book/medianas/JPEG/luz0232.jpg); 
+.image-bg-3{ /*Bodas*/
+  background: url(../images/portadas/bodas/1.png); 
 }
-.image-bg-4{
-  background: url(../images/celebraciones/medianas/JPEG/Jorge0337.jpg); 
-}
-.image-bg-5{
-  background: url(../images/empresariales/); 
-}
-.image-bg-6{
-  background: url(../images/15-anios/fiesta/medianas/JPEG/feli0586.jpg); 
-}
-.image-bg-7{
+.image-bg-4{ /*Bar bat*/
   background: url(../images/bar-bat/medianas/JPEG/DSC_238.jpg); 
 }
+
+.image-bg-5{ /*Celebraciones*/
+  background: url(../images/celebraciones/medianas/JPEG/Jorge0337.jpg); 
+}
+.image-bg-6{ /*Empresariales*/
+  background: url(../images/empresariales/); 
+}
+
+
+/*Fondos de secciones*/
+.image-bg-7{ /*Nosotros*/
+  background: url(../images/portadas/Fondos/Nosotros/Nosotros.jpeg); 
+}
+.image-bg-8{ /*Contacto*/
+  background: url(../images/contacto/l&a0514.jpg); 
+} 
+.image-bg-9{ /*Agradecimientos*/
+  background: url(../images/agradecimientos); 
+}
+.image-bg-10{ /*Servicios*/
+  background: url(../images/servicios/); 
+}
+
+
+/*Play de youtube en fotos*/
+/* .uk-icon > * {
+  transform: translate(160px,100px);
+} */
