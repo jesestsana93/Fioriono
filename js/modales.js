@@ -235,10 +235,10 @@ $(function () {
 						<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
 					</div>
 					<div class="modal-body">
-						<a href="https://www.youtube.com/watch?v=cKM-TFbCTLg" target="_blank">
+						<a href="https://www.youtube.com/watch?v=aK_7i-WNbA8" target="_blank">
 							<div class="uk-inline-clip uk-transition-toggle" tabindex="0" >
 								<!-- Image -->
-								<img src="../../../images/servicios/miniaturas/" alt="habia-una-vez" class="img-fluid"/>
+								<img src="../../../images/servicios/miniaturas/draw-my-life.JPG" alt="habia-una-vez" class="img-fluid"/>
 							
 								<div class="uk-position-top-left margin-50px">
 									<span data-uk-icon="icon: play; ratio: 2.4" class="text-lime margin-right-10px" style="transform: translate(160px,100px); border: 1px solid red; border-radius: 10px; padding: 0px 7px;background-color: red; color: white;"></span>
@@ -274,29 +274,6 @@ $(function () {
 			</div>
 		</div>
 
-
-		<div class="modal fade" id="invitacionWeb" tabindex="-1" aria-labelledby="invitacionWebLabel" aria-hidden="true">
-			<div class="modal-dialog">
-				<div class="modal-content">
-					<div class="modal-header">
-						<h1 class="modal-title fs-5" id="invitacionWebLabel">Invitación web</h1>
-						<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-					</div>
-					<div class="modal-body">
-						<a href="https://www.youtube.com/shorts/-kF8LKWznxI" target="_blank">
-							<div class="uk-inline-clip uk-transition-toggle" tabindex="0" >
-								<!-- Image -->
-								<img src="../../../images/servicios/miniaturas/invitacion-web.PNG" alt="invitacionweb" class="img-fluid"/>
-							
-								<div class="uk-position-top-left margin-50px">
-									<span data-uk-icon="icon: play; ratio: 2.4" class="text-lime margin-right-10px" style="transform: translate(160px,100px); border: 1px solid red; border-radius: 10px; padding: 0px 7px;background-color: red; color: white;"></span>
-								</div>
-							</div>
-						</a>
-					</div>
-				</div>
-			</div>
-		</div>
 
 		<div class="modal fade" id="shimmer" tabindex="-1" aria-labelledby="shimmerLabel" aria-hidden="true">
 			<div class="modal-dialog">

@@ -142,6 +142,9 @@ a > h1{
 }
 
 .titulo-seccion{
+  border: 2px solid red;
+  color: black;
+  background-color: rgba(0,0,0,.5);
   font-size: 24px;
 }
 /*Dimensiones para el logo de Fiorino en el header*/
@@ -274,7 +277,8 @@ a > h1{
   background-color: black;
 }
 .modal-title{
-  color: red;
+  color: white;
+  text-transform: capitalize;
 }
 .modal-content {
   border: 1px solid red;
@@ -287,4 +291,13 @@ a > h1{
 .btn-close {
   opacity: 1;
   background-color: red;
+}
+
+.icono-reproduccion { 
+  padding: 0px 7px; 
+  border: 1px solid red;
+   border-radius: 10px; 
+   color: white;
+   background-color: red;
+  transform: translate(150px,50px);
 }
