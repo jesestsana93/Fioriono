@@ -34,7 +34,7 @@ $(function () {
                                     <li><a href="bodas.html">Bodas</a></li>
                                     <li><a href="bar.html">Bar y Bat Mitzvah</a></li>
                                     <li><a href="celebraciones.html">Celebraciones</a></li>
-                                    <li><a href="empresariales.html">Empresariales</a></li>
+                                   <!-- <li><a href="empresariales.html">Empresariales</a></li> -->
                                 </ul>
                             </div>
                         </li>
@@ -87,7 +87,7 @@ $(function () {
                         <li><a href="bodas.html">Bodas</a></li>
                         <li><a href="bar.html">Bar y Bat Mitzvah </a></li>
                         <li><a href="celebraciones.html">Celebraciones</a></li>
-                        <li><a href="empresariales.html">Empresariales</a></li>
+                        <!-- <li><a href="empresariales.html">Empresariales</a></li> -->
                     </ul>
                 </li>
                 <li class="margin-bottom-10px">

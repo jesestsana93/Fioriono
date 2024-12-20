@@ -16,25 +16,16 @@ $(function () {
 						<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
 					</div>
 					<div class="modal-body">
-						<a href="https://www.youtube.com/watch?v=cKM-TFbCTLg" target="_blank">
+						<a href="https://www.youtube.com/watch?v=LBDXS10Exxs" target="_blank">
 							<div class="uk-inline-clip uk-transition-toggle" tabindex="0" >
-							<!-- Image -->
-							<img src="../../../images/miniaturas/habia-una-vez.jpeg" alt="habia-una-vez" class="img-fluid"/>
-							
+								<!-- Image -->
+								<img src="../../../images/servicios/miniaturas/final-fiesta.JPG" alt="final-fiesta" class="img-fluid"/>
 							
 								<div class="uk-position-top-left margin-50px">
 									<span data-uk-icon="icon: play; ratio: 2.4" class="text-lime margin-right-10px" style="transform: translate(160px,100px); border: 1px solid red; border-radius: 10px; padding: 0px 7px;background-color: red; color: white;"></span>
 								</div>
-								<!-- Title -->
-								<div class="uk-position-bottom-left margin-50px">
-									<!-- <h1 class="text-weight-200 text-gradient-gold sm-text-weight-300">Empresas</h1> -->
-								</div><!-- End Title -->
-							
-							
+							</div>
 						</a>
-
-
-
 					</div>
 				</div>
 			</div>
@@ -48,7 +39,16 @@ $(function () {
 						<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
 					</div>
 					<div class="modal-body">
-					Lorem ipsum odor amet, consectetuer adipiscing elit. Arcu morbi quisque mus himenaeos cras placerat. Conubia iaculis purus hac curabitur hendrerit sodales scelerisque elit. Ultricies etiam dis vel scelerisque porta. Nostra sed conubia eu felis ante vulputate purus orci. Placerat iaculis ante et porttitor; lobortis sem donec semper. Porttitor massa vitae dignissim enim luctus dapibus praesent. Ornare parturient varius mi lobortis nostra nisi.
+						<a href="https://www.youtube.com/watch?v=-XYKqNZvGzU" target="_blank">
+							<div class="uk-inline-clip uk-transition-toggle" tabindex="0" >
+								<!-- Image -->
+								<img src="../../../images/servicios/miniaturas/biografia.JPG" alt="biografia" class="img-fluid"/>
+							
+								<div class="uk-position-top-left margin-50px">
+									<span data-uk-icon="icon: play; ratio: 2.4" class="text-lime margin-right-10px" style="transform: translate(160px,100px); border: 1px solid red; border-radius: 10px; padding: 0px 7px;background-color: red; color: white;"></span>
+								</div>
+							</div>
+						</a>
 					</div>
 				</div>
 			</div>
@@ -62,7 +62,16 @@ $(function () {
 						<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
 					</div>
 					<div class="modal-body">
-						Lorem ipsum odor amet, consectetuer adipiscing elit. Arcu morbi quisque mus himenaeos cras placerat. Conubia iaculis purus hac curabitur hendrerit sodales scelerisque elit. Ultricies etiam dis vel scelerisque porta. Nostra sed conubia eu felis ante vulputate purus orci. Placerat iaculis ante et porttitor; lobortis sem donec semper. Porttitor massa vitae dignissim enim luctus dapibus praesent. Ornare parturient varius mi lobortis nostra nisi.
+						<a href="https://www.youtube.com/watch?v=Vj_O7y47els" target="_blank">
+							<div class="uk-inline-clip uk-transition-toggle" tabindex="0" >
+								<!-- Image -->
+								<img src="../../../images/servicios/miniaturas/drone.JPG" alt="" class="img-fluid"/>
+							
+								<div class="uk-position-top-left margin-50px">
+									<span data-uk-icon="icon: play; ratio: 2.4" class="text-lime margin-right-10px" style="transform: translate(160px,100px); border: 1px solid red; border-radius: 10px; padding: 0px 7px;background-color: red; color: white;"></span>
+								</div>
+							</div>
+						</a>
 					</div>
 				</div>
 			</div>
@@ -76,7 +85,16 @@ $(function () {
 						<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
 					</div>
 					<div class="modal-body">
-						Lorem ipsum odor amet, consectetuer adipiscing elit. Arcu morbi quisque mus himenaeos cras placerat. Conubia iaculis purus hac curabitur hendrerit sodales scelerisque elit. Ultricies etiam dis vel scelerisque porta. Nostra sed conubia eu felis ante vulputate purus orci. Placerat iaculis ante et porttitor; lobortis sem donec semper. Porttitor massa vitae dignissim enim luctus dapibus praesent. Ornare parturient varius mi lobortis nostra nisi.
+						<a href="https://www.youtube.com/shorts/-kF8LKWznxI" target="_blank">
+							<div class="uk-inline-clip uk-transition-toggle" tabindex="0" >
+								<!-- Image -->
+								<img src="../../../images/servicios/miniaturas/invitacion-web.PNG" alt="invitacionweb" class="img-fluid"/>
+							
+								<div class="uk-position-top-left margin-50px">
+									<span data-uk-icon="icon: play; ratio: 2.4" class="text-lime margin-right-10px" style="transform: translate(160px,100px); border: 1px solid red; border-radius: 10px; padding: 0px 7px;background-color: red; color: white;"></span>
+								</div>
+							</div>
+						</a>
 					</div>
 				</div>
 			</div>
@@ -91,7 +109,16 @@ $(function () {
 						<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
 					</div>
 					<div class="modal-body">
-						Lorem ipsum odor amet, consectetuer adipiscing elit. Arcu morbi quisque mus himenaeos cras placerat. Conubia iaculis purus hac curabitur hendrerit sodales scelerisque elit. Ultricies etiam dis vel scelerisque porta. Nostra sed conubia eu felis ante vulputate purus orci. Placerat iaculis ante et porttitor; lobortis sem donec semper. Porttitor massa vitae dignissim enim luctus dapibus praesent. Ornare parturient varius mi lobortis nostra nisi.
+						<a href="https://www.youtube.com/watch?v=Jff4z1-CT-g" target="_blank">
+							<div class="uk-inline-clip uk-transition-toggle" tabindex="0" >
+								<!-- Image -->
+								<img src="../../../images/servicios/miniaturas/360.JPG" alt="habia-una-vez" class="img-fluid"/>
+							
+								<div class="uk-position-top-left margin-50px">
+									<span data-uk-icon="icon: play; ratio: 2.4" class="text-lime margin-right-10px" style="transform: translate(160px,100px); border: 1px solid red; border-radius: 10px; padding: 0px 7px;background-color: red; color: white;"></span>
+								</div>
+							</div>
+						</a>
 					</div>
 				</div>
 			</div>
@@ -106,7 +133,7 @@ $(function () {
 						<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
 					</div>
 					<div class="modal-body">
-						Lorem ipsum odor amet, consectetuer adipiscing elit. Arcu morbi quisque mus himenaeos cras placerat. Conubia iaculis purus hac curabitur hendrerit sodales scelerisque elit. Ultricies etiam dis vel scelerisque porta. Nostra sed conubia eu felis ante vulputate purus orci. Placerat iaculis ante et porttitor; lobortis sem donec semper. Porttitor massa vitae dignissim enim luctus dapibus praesent. Ornare parturient varius mi lobortis nostra nisi.
+						<img src="../../../images/servicios/espejo-magico.JPG" alt="" class="img-fluid"/>
 					</div>
 				</div>
 			</div>
@@ -120,8 +147,17 @@ $(function () {
 						<h1 class="modal-title fs-5" id="backDeEntradaLabel">Back de entrada</h1>
 						<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
 					</div>
-					<div class="modal-body">
-						Lorem ipsum odor amet, consectetuer adipiscing elit. Arcu morbi quisque mus himenaeos cras placerat. Conubia iaculis purus hac curabitur hendrerit sodales scelerisque elit. Ultricies etiam dis vel scelerisque porta. Nostra sed conubia eu felis ante vulputate purus orci. Placerat iaculis ante et porttitor; lobortis sem donec semper. Porttitor massa vitae dignissim enim luctus dapibus praesent. Ornare parturient varius mi lobortis nostra nisi.
+					<div class="modal-body"> 
+						<a href="https://www.youtube.com/watch?v=jNlCDHjPtpM" target="_blank">
+							<div class="uk-inline-clip uk-transition-toggle" tabindex="0" >
+								<!-- Image -->
+								<img src="../../../images/servicios/miniaturas/back-entrada.JPG" alt="back de entrada" class="img-fluid"/>
+							
+								<div class="uk-position-top-left margin-50px">
+									<span data-uk-icon="icon: play; ratio: 2.4" class="text-lime margin-right-10px" style="transform: translate(160px,100px); border: 1px solid red; border-radius: 10px; padding: 0px 7px;background-color: red; color: white;"></span>
+								</div>
+							</div>
+						</a>
 					</div>
 				</div>
 			</div>
@@ -136,7 +172,16 @@ $(function () {
 						<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
 					</div>
 					<div class="modal-body">
-						Lorem ipsum odor amet, consectetuer adipiscing elit. Arcu morbi quisque mus himenaeos cras placerat. Conubia iaculis purus hac curabitur hendrerit sodales scelerisque elit. Ultricies etiam dis vel scelerisque porta. Nostra sed conubia eu felis ante vulputate purus orci. Placerat iaculis ante et porttitor; lobortis sem donec semper. Porttitor massa vitae dignissim enim luctus dapibus praesent. Ornare parturient varius mi lobortis nostra nisi.
+						<a href="https://www.youtube.com/watch?v=cKM-TFbCTLg " target="_blank">
+							<div class="uk-inline-clip uk-transition-toggle" tabindex="0" >
+								<!-- Image -->
+								<img src="../../../images/servicios/miniaturas/habia-una-vez.JPEG" alt="habia-una-vez" class="img-fluid"/>
+							
+								<div class="uk-position-top-left margin-50px">
+									<span data-uk-icon="icon: play; ratio: 2.4" class="text-lime margin-right-10px" style="transform: translate(160px,100px); border: 1px solid red; border-radius: 10px; padding: 0px 7px;background-color: red; color: white;"></span>
+								</div>
+							</div>
+						</a>
 					</div>
 				</div>
 			</div>
@@ -151,7 +196,7 @@ $(function () {
 						<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
 					</div>
 					<div class="modal-body">
-						Lorem ipsum odor amet, consectetuer adipiscing elit. Arcu morbi quisque mus himenaeos cras placerat. Conubia iaculis purus hac curabitur hendrerit sodales scelerisque elit. Ultricies etiam dis vel scelerisque porta. Nostra sed conubia eu felis ante vulputate purus orci. Placerat iaculis ante et porttitor; lobortis sem donec semper. Porttitor massa vitae dignissim enim luctus dapibus praesent. Ornare parturient varius mi lobortis nostra nisi.
+						<img src="../../../images/servicios/cabina-fotos.JPG" alt="" class="img-fluid"/>
 					</div>
 				</div>
 			</div>
@@ -166,7 +211,16 @@ $(function () {
 						<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
 					</div>
 					<div class="modal-body">
-						Lorem ipsum odor amet, consectetuer adipiscing elit. Arcu morbi quisque mus himenaeos cras placerat. Conubia iaculis purus hac curabitur hendrerit sodales scelerisque elit. Ultricies etiam dis vel scelerisque porta. Nostra sed conubia eu felis ante vulputate purus orci. Placerat iaculis ante et porttitor; lobortis sem donec semper. Porttitor massa vitae dignissim enim luctus dapibus praesent. Ornare parturient varius mi lobortis nostra nisi.
+						<a href="https://www.youtube.com/watch?v=ADnY0Wk4lac" target="_blank">
+							<div class="uk-inline-clip uk-transition-toggle" tabindex="0" >
+								<!-- Image -->
+								<img src="../../../images/servicios/miniaturas/cabina-mensajes.JPG" alt="cabina mensajes" class="img-fluid"/>
+							
+								<div class="uk-position-top-left margin-50px">
+									<span data-uk-icon="icon: play; ratio: 2.4" class="text-lime margin-right-10px" style="transform: translate(160px,100px); border: 1px solid red; border-radius: 10px; padding: 0px 7px;background-color: red; color: white;"></span>
+								</div>
+							</div>
+						</a>
 					</div>
 				</div>
 			</div>
@@ -181,7 +235,16 @@ $(function () {
 						<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
 					</div>
 					<div class="modal-body">
-					Lorem ipsum odor amet, consectetuer adipiscing elit. Arcu morbi quisque mus himenaeos cras placerat. Conubia iaculis purus hac curabitur hendrerit sodales scelerisque elit. Ultricies etiam dis vel scelerisque porta. Nostra sed conubia eu felis ante vulputate purus orci. Placerat iaculis ante et porttitor; lobortis sem donec semper. Porttitor massa vitae dignissim enim luctus dapibus praesent. Ornare parturient varius mi lobortis nostra nisi.
+						<a href="https://www.youtube.com/watch?v=cKM-TFbCTLg" target="_blank">
+							<div class="uk-inline-clip uk-transition-toggle" tabindex="0" >
+								<!-- Image -->
+								<img src="../../../images/servicios/miniaturas/" alt="habia-una-vez" class="img-fluid"/>
+							
+								<div class="uk-position-top-left margin-50px">
+									<span data-uk-icon="icon: play; ratio: 2.4" class="text-lime margin-right-10px" style="transform: translate(160px,100px); border: 1px solid red; border-radius: 10px; padding: 0px 7px;background-color: red; color: white;"></span>
+								</div>
+							</div>
+						</a>
 					</div>
 				</div>
 			</div>
@@ -196,7 +259,16 @@ $(function () {
 						<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
 					</div>
 					<div class="modal-body">
-						Lorem ipsum odor amet, consectetuer adipiscing elit. Arcu morbi quisque mus himenaeos cras placerat. Conubia iaculis purus hac curabitur hendrerit sodales scelerisque elit. Ultricies etiam dis vel scelerisque porta. Nostra sed conubia eu felis ante vulputate purus orci. Placerat iaculis ante et porttitor; lobortis sem donec semper. Porttitor massa vitae dignissim enim luctus dapibus praesent. Ornare parturient varius mi lobortis nostra nisi.
+						<a href="https://www.youtube.com/watch?v=IzuZS4RZmEY " target="_blank">
+							<div class="uk-inline-clip uk-transition-toggle" tabindex="0" >
+								<!-- Image -->
+								<img src="../../../images/servicios/miniaturas/save-the-date.JPG" alt="save-the-date" class="img-fluid"/>
+							
+								<div class="uk-position-top-left margin-50px">
+									<span data-uk-icon="icon: play; ratio: 2.4" class="text-lime margin-right-10px" style="transform: translate(160px,100px); border: 1px solid red; border-radius: 10px; padding: 0px 7px;background-color: red; color: white;"></span>
+								</div>
+							</div>
+						</a>
 					</div>
 				</div>
 			</div>
@@ -211,27 +283,20 @@ $(function () {
 						<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
 					</div>
 					<div class="modal-body">
-						Lorem ipsum odor amet, consectetuer adipiscing elit. Arcu morbi quisque mus himenaeos cras placerat. Conubia iaculis purus hac curabitur hendrerit sodales scelerisque elit. Ultricies etiam dis vel scelerisque porta. Nostra sed conubia eu felis ante vulputate purus orci. Placerat iaculis ante et porttitor; lobortis sem donec semper. Porttitor massa vitae dignissim enim luctus dapibus praesent. Ornare parturient varius mi lobortis nostra nisi.
+						<a href="https://www.youtube.com/shorts/-kF8LKWznxI" target="_blank">
+							<div class="uk-inline-clip uk-transition-toggle" tabindex="0" >
+								<!-- Image -->
+								<img src="../../../images/servicios/miniaturas/invitacion-web.PNG" alt="invitacionweb" class="img-fluid"/>
+							
+								<div class="uk-position-top-left margin-50px">
+									<span data-uk-icon="icon: play; ratio: 2.4" class="text-lime margin-right-10px" style="transform: translate(160px,100px); border: 1px solid red; border-radius: 10px; padding: 0px 7px;background-color: red; color: white;"></span>
+								</div>
+							</div>
+						</a>
 					</div>
 				</div>
 			</div>
 		</div>
-
-
-		<div class="modal fade" id="albumes" tabindex="-1" aria-labelledby="albumesLabel" aria-hidden="true">
-			<div class="modal-dialog">
-				<div class="modal-content">
-					<div class="modal-header">
-						<h1 class="modal-title fs-5" id="albumesLabel">Albumes</h1>
-						<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-					</div>
-					<div class="modal-body">
-						Lorem ipsum odor amet, consectetuer adipiscing elit. Arcu morbi quisque mus himenaeos cras placerat. Conubia iaculis purus hac curabitur hendrerit sodales scelerisque elit. Ultricies etiam dis vel scelerisque porta. Nostra sed conubia eu felis ante vulputate purus orci. Placerat iaculis ante et porttitor; lobortis sem donec semper. Porttitor massa vitae dignissim enim luctus dapibus praesent. Ornare parturient varius mi lobortis nostra nisi.
-					</div>
-				</div>
-			</div>
-		</div>
-
 
 		<div class="modal fade" id="shimmer" tabindex="-1" aria-labelledby="shimmerLabel" aria-hidden="true">
 			<div class="modal-dialog">
@@ -241,7 +306,7 @@ $(function () {
 						<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
 					</div>
 					<div class="modal-body">
-						Lorem ipsum odor amet, consectetuer adipiscing elit. Arcu morbi quisque mus himenaeos cras placerat. Conubia iaculis purus hac curabitur hendrerit sodales scelerisque elit. Ultricies etiam dis vel scelerisque porta. Nostra sed conubia eu felis ante vulputate purus orci. Placerat iaculis ante et porttitor; lobortis sem donec semper. Porttitor massa vitae dignissim enim luctus dapibus praesent. Ornare parturient varius mi lobortis nostra nisi.
+						<img src="../../../images/servicios/shimmer.JPG" alt="" class="img-fluid"/>
 					</div>
 				</div>
 			</div>
@@ -256,7 +321,7 @@ $(function () {
 						<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
 					</div>
 					<div class="modal-body">
-						Lorem ipsum odor amet, consectetuer adipiscing elit. Arcu morbi quisque mus himenaeos cras placerat. Conubia iaculis purus hac curabitur hendrerit sodales scelerisque elit. Ultricies etiam dis vel scelerisque porta. Nostra sed conubia eu felis ante vulputate purus orci. Placerat iaculis ante et porttitor; lobortis sem donec semper. Porttitor massa vitae dignissim enim luctus dapibus praesent. Ornare parturient varius mi lobortis nostra nisi.
+						<img src="../../../images/servicios/grua.JPG" alt="" class="img-fluid"/>
 					</div>
 				</div>
 			</div>
@@ -271,7 +336,7 @@ $(function () {
 						<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
 					</div>
 					<div class="modal-body">
-						Lorem ipsum odor amet, consectetuer adipiscing elit. Arcu morbi quisque mus himenaeos cras placerat. Conubia iaculis purus hac curabitur hendrerit sodales scelerisque elit. Ultricies etiam dis vel scelerisque porta. Nostra sed conubia eu felis ante vulputate purus orci. Placerat iaculis ante et porttitor; lobortis sem donec semper. Porttitor massa vitae dignissim enim luctus dapibus praesent. Ornare parturient varius mi lobortis nostra nisi.
+						<img src="../../../images/servicios/postales.JPG" alt="" class="img-fluid"/>
 					</div>
 				</div>
 			</div>
@@ -286,7 +351,7 @@ $(function () {
 						<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
 					</div>
 					<div class="modal-body">
-					Lorem ipsum odor amet, consectetuer adipiscing elit. Arcu morbi quisque mus himenaeos cras placerat. Conubia iaculis purus hac curabitur hendrerit sodales scelerisque elit. Ultricies etiam dis vel scelerisque porta. Nostra sed conubia eu felis ante vulputate purus orci. Placerat iaculis ante et porttitor; lobortis sem donec semper. Porttitor massa vitae dignissim enim luctus dapibus praesent. Ornare parturient varius mi lobortis nostra nisi.
+						<img src="../../../images/servicios/banner.JPG" alt="" class="img-fluid"/>
 					</div>
 				</div>
 			</div>
@@ -301,7 +366,7 @@ $(function () {
 						<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
 					</div>
 					<div class="modal-body">
-						Lorem ipsum odor amet, consectetuer adipiscing elit. Arcu morbi quisque mus himenaeos cras placerat. Conubia iaculis purus hac curabitur hendrerit sodales scelerisque elit. Ultricies etiam dis vel scelerisque porta. Nostra sed conubia eu felis ante vulputate purus orci. Placerat iaculis ante et porttitor; lobortis sem donec semper. Porttitor massa vitae dignissim enim luctus dapibus praesent. Ornare parturient varius mi lobortis nostra nisi.
+						<img src="../../../images/servicios/foto-iman.JPG" alt="" class="img-fluid"/>
 					</div>
 				</div>
 			</div>
@@ -315,15 +380,20 @@ $(function () {
 						<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
 					</div>
 					<div class="modal-body">
-						Lorem ipsum odor amet, consectetuer adipiscing elit. Arcu morbi quisque mus himenaeos cras placerat. Conubia iaculis purus hac curabitur hendrerit sodales scelerisque elit. Ultricies etiam dis vel scelerisque porta. Nostra sed conubia eu felis ante vulputate purus orci. Placerat iaculis ante et porttitor; lobortis sem donec semper. Porttitor massa vitae dignissim enim luctus dapibus praesent. Ornare parturient varius mi lobortis nostra nisi.
+						<a href="https://www.youtube.com/watch?v=gMFlggCYf_A " target="_blank">
+							<div class="uk-inline-clip uk-transition-toggle" tabindex="0" >
+								<!-- Image -->
+								<img src="../../../images/servicios/miniaturas/clip.JPG" alt="clip" class="img-fluid"/>
+							
+								<div class="uk-position-top-left margin-50px">
+									<span data-uk-icon="icon: play; ratio: 2.4" class="text-lime margin-right-10px" style="transform: translate(160px,100px); border: 1px solid red; border-radius: 10px; padding: 0px 7px;background-color: red; color: white;"></span>
+								</div>
+							</div>
+						</a>
 					</div>
 				</div>
 			</div>
 		</div>
-
-
-
-
         `);
     }
 });

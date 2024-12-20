@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'BirdHouse';
+  font-style: normal;
+  font-weight: normal;
   src: url("/fonts/OTF/Bird.otf") format("opentype"),
        url("/fonts/TTF/Bird.ttf") format("truetype");
-  font-weight: normal;
-  font-style: normal;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Birthstone&display=swap');
@@ -13,11 +13,11 @@ body, p, button, [type="button"], [type="submit"], textarea, a{
 }
 
 .seccion {
-  font-family: 'BirdHouse' !important;
-  font-weight: 400;
-  font-style: normal;
-  font-size: 160px !important;
   text-align: center;
+  font-family: 'BirdHouse' !important;
+  font-size: 160px !important;
+  font-style: normal;
+  font-weight: 400;
 }
 .contenedor-video,
 .menu-lateral {
@@ -31,12 +31,12 @@ body, p, button, [type="button"], [type="submit"], textarea, a{
   height: 100vh;
 }
 
-.menu-lateral-fiorino {
+.menu-lateral-fiorino { 
+  z-index: 9999;
   top: 50%;
   width: 30%; 
   height: 100vh;
-  color: #fff; 
-  z-index: 9999;
+  color: #fff;
   transform: translateY(30%);
 
 }
@@ -46,13 +46,13 @@ body, p, button, [type="button"], [type="submit"], textarea, a{
     color: #fff !important;
 }
 .menu-lateral-fiorino ul li{
+    z-index: 9999;
+    margin-left: 10px;
+    color: #fff;
     list-style: none;
     text-transform: uppercase;
-    color: #fff;
     font-size: 55px;
-    margin-left: 10px;
     font-weight: 900;
-    z-index: 9999;
 }
 .menu-lateral-fiorino ul li a{
     color: rgba(255,255,255,.7);
@@ -69,11 +69,11 @@ body, p, button, [type="button"], [type="submit"], textarea, a{
 .bg-gold {
   background-color: rgb(221, 32, 39);
 }
-.menu-lateral-fiorino2 {
+.menu-lateral-fiorino2 { 
+    z-index: 9999;
     top: 50%; 
     height: 100vh;
-    color: #fff; 
-    z-index: 9999;
+    color: #fff;
     transform: translateY(30%);
   
   }
@@ -83,14 +83,14 @@ body, p, button, [type="button"], [type="submit"], textarea, a{
       color: #fff !important;
   }
   .menu-lateral-fiorino2 ul li{
-      list-style: none;
-      text-transform: uppercase;
-      color: #fff;
-      font-size: 45px;
+      z-index: 9999;
       line-height: 50px;
       margin-left: 10px;
+      color: #fff;
+      list-style: none;
+      text-transform: uppercase;
+      font-size: 45px;
       font-weight: 900;
-      z-index: 9999;
   }
   .menu-lateral-fiorino2 ul li a{
       color: rgba(255,255,255,.7);
@@ -104,25 +104,27 @@ body, p, button, [type="button"], [type="submit"], textarea, a{
 
   .text-gradient-gold {
     background: linear-gradient(to right, #E7242D 10%, #E7242D 80%);
-      background-clip: border-box;
     -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -ms-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent;
   }
 
 
 .whatsapp {
   position: fixed;
-  width: 60px;
-  height: 60px;
+  z-index: 100;
   bottom: 40px;
   left: 40px;
-  background-color: #25d366;
-  color: #fff;
+  width: 60px;
+  height: 60px;
   border-radius: 50px;
+  color: #fff;
+  color: white;
+  background-color: #25d366;
   text-align: center;
   font-size: 30px;
-  z-index: 100;
-  color: white;
 }
 
 .whatsapp-icon {
@@ -134,8 +136,8 @@ body, p, button, [type="button"], [type="submit"], textarea, a{
 
 /*********** TITULO DE SECCIONES EN INICIO ***************/
 a > h1{
-  background-color: #0606068A !important;
   padding: 11px 10px;
+  border: 1px solid #E7242D;
   text-transform: uppercase;
 }
 
@@ -176,13 +178,13 @@ a > h1{
 .btn:focus-visible,
 .btn-primary:not(:disabled):not(.disabled):active:focus{
   display: block;
-  background-color: transparent;
-  border: 1px solid transparent;
-  text-transform: none;
   margin-top: 6px;
+  border: 1px solid transparent;
+  background-color: transparent;
+  box-shadow: none;
+  text-transform: none;
   font-size: 30px;
   font-weight: 200;
-  box-shadow: none;
 }
 .img-servicio{
   width: 60px;
@@ -225,54 +227,64 @@ a > h1{
     opacity: 0.629 !important; 
 }
 .overlay-black-celebraciones:after{
-    content: '';
-    width: 100%;
-    height: 100%;
-    top: 0;
-    left: 0;
     position: absolute;
     z-index: -1;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    content: '';
 
 }
 .overlay-black-celebraciones:after{
-  background: #000;
-  opacity: 0.82 !important; 
+  opacity: 0.82 !important;
+  background: #000; 
 }
 
 
 /*Fondos de secciones*/
 .image-bg-7{ /*Nosotros*/
+  color: rgba(255,255,255,.8);
   background: url(../images/portadas/Fondos/Nosotros/Nosotros.jpeg); 
   background-position: center;
   background-size: cover;
-  color: rgba(255,255,255,.8);
 }
-.image-bg-8{ /*Contacto*/
-  background: url(../images/portadas/Fondos/BlancoyNegro86.jpg); 
+.image-bg-8{ /*Contacto*/ 
+  color: rgba(255,255,255,.8);
+  background: url(../images/portadas/Fondos/BlancoyNegro86.jpg);
   background-position: center;
   background-size: cover;
 } 
 .image-bg-9{ /*Agradecimientos*/
+  color: rgba(255,255,255,.8);
   background: url(../images/portadas/Fondos/Lucia0778.jpg); 
   background-position: center;
   background-size: cover;
-  color: rgba(255,255,255,.8);
 }
 .image-bg-10{ /*Servicios*/
+  color: rgba(255,255,255,.8);
   background: url(../images/portadas/Fondos/Valentina0399.jpg); 
   background-position: center;
   background-size: cover;
-  color: rgba(255,255,255,.8);
 }
 
 .modal-content {
+  border: 1px solid white;
   color: white;
   background-color: black;
-  border: 1px solid white;
 }
 .modal-title{
   color: red;
 }
 .modal-content {
   border: 1px solid red;
+}
+
+.modal-header {
+  border-bottom: 1px solid red;
+}
+
+.btn-close {
+  opacity: 1;
+  background-color: red;
 }

@@ -94,7 +94,7 @@ $(function () {
                             <li>
                                 <div class="testimonial padding-top-bottom-75px bg-black">
                                     <div class="width-100px text-center center-col margin-bottom-25px">
-                                        <img class="border-radius-20  width-100px" src="images/agradecimientos/03.jpg" style="height: 8rem" alt="" />
+                                        <img class="border-radius-20  width-100px" src="images/agradecimientos/03.jpg" alt="" />
                                         
                                     </div>
                                     <span class="text-black bg-gold width-50px height-50px line-height-48 border-radius-100 margin-bottom-15px" data-uk-icon="icon: quote-right; ratio: 1"></span>
@@ -199,7 +199,7 @@ $(function () {
                             <li>
                                 <div class="testimonial padding-top-bottom-75px bg-black">
                                     <div class="width-100px text-center center-col margin-bottom-25px">
-                                        <img class="border-radius-20  width-100px" src="images/agradecimientos/08.jpg" style="height: 7rem" alt="" />
+                                        <img class="border-radius-20  width-100px" src="images/agradecimientos/08.jpeg"  alt="" />
                                     </div>
                                     
                                     <span class="text-black bg-gold width-50px height-50px line-height-48 border-radius-100 margin-bottom-15px" data-uk-icon="icon: quote-right; ratio: 1"></span>

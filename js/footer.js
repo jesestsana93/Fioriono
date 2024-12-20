@@ -18,12 +18,14 @@ $(function () {
 
             <!-- Links -->
             <div class="col-md-2 col-sm-6 col-xs-12 center-col padding-left-35px md-margin-bottom-50px sm-text-center xs-no-border-left xs-no-padding-left">
-                <h5 class="text-extra-large text-weight-300 text-white">Links</h5>
+                <h5 class="text-extra-large text-weight-300 text-white">Enlaces</h5>
                 <ul class="list-unstyled no-margin-bottom">
-                    <li class="margin-bottom-10px"><a class="text-small text-gray-light" href="#"><span data-uk-icon="icon: home; ratio: .8" class="margin-right-5px position-relative bottom-2"></span>Inicio</a></li>
-                    <li class="margin-bottom-10px"><a class="text-small text-gray-light" href="#"><span data-uk-icon="icon: info; ratio: .8" class="margin-right-5px position-relative bottom-2"></span>Trabajos</a></li>
-                    <li class="margin-bottom-10px"><a class="text-small text-gray-light" href="#"><span data-uk-icon="icon: thumbnails; ratio: .8" class="margin-right-5px position-relative bottom-2"></span>Servicios</a></li>
-                    <li><a class="text-small text-gray-light" href="#"><span data-uk-icon="icon: mail; ratio: .8" class="margin-right-5px position-relative bottom-2"></span> Contacto</a></li>
+                    <li class="margin-bottom-10px"><a class="text-small text-white" href="index.html"><span data-uk-icon="icon: home; ratio: .8" class="margin-right-5px position-relative bottom-2"></span>Inicio</a></li>
+                    <li class="margin-bottom-10px"><a class="text-small text-white" href="book.html"><i class="fas fa-wine-glass mr-2"></i>Eventos</a></li>
+                    <li class="margin-bottom-10px"><a class="text-small text-white" href="nosotros.html"><span data-uk-icon="icon: info; ratio: .8" class="margin-right-5px position-relative bottom-2"></span>Nosotros</a></li>
+                    <li class="margin-bottom-10px"><a class="text-small text-white" href="#"><span data-uk-icon="icon: thumbnails; ratio: .8" class="margin-right-5px position-relative bottom-2"></span>Servicios adicionales</a></li>
+                    <li class="margin-bottom-10px"><a class="text-small text-white" href="#"><i class="fas fa-comments mr-2"></i>Reseñas</a></li>
+                    <li><a class="text-small text-white" href="#"><span data-uk-icon="icon: mail; ratio: .8" class="margin-right-5px position-relative bottom-2"></span> Contacto</a></li>
                 </ul>
             </div>
             
@@ -31,9 +33,9 @@ $(function () {
             <div class="col-md-2 col-sm-6 col-xs-12 center-col padding-left-35px md-margin-bottom-50px sm-text-center xs-no-border-left xs-no-padding-left">
                 <h5 class="text-extra-large text-weight-300 text-white">Social</h5>
                 <ul class="list-unstyled no-margin-bottom"> 
-                    <li class="margin-bottom-10px"><a class="text-small text-gray-light" href="https://www.instagram.com/gustavofiorino/" target="_blank" title="Seguinos en instagram"><i class="fab fa-instagram instagram mr-2"></i> Instagram</a></li>               
-                    <li class="margin-bottom-10px"><a class="text-small text-gray-light" href="https://www.tiktok.com/@gustavofiorino" target="_blank" title="Seguinos en TikTok"><img src="images/tiktok.png" class="img-fluid mr-2" style="height:15px;" /> TikTok</a></li>
-                    <li class="margin-bottom-10px"><a class="text-small text-gray-light" href="https://www.youtube.com/@GustavoFiorinoGF" target="_blank" title="Seguinos en YouTube"><i class="fab fa-youtube text-danger mr-2"></i>YouTube</a></li>
+                    <li class="margin-bottom-10px text-white"><a class="text-small text-white" href="https://www.instagram.com/gustavofiorino/" target="_blank" title="Seguinos en instagram"><i class="fab fa-instagram instagram mr-2"></i> Instagram</a></li>               
+                    <li class="margin-bottom-10px"><a class="text-small text-white" href="https://www.tiktok.com/@gustavofiorino" target="_blank" title="Seguinos en TikTok"><img src="images/tiktok.png" class="img-fluid mr-2" style="height:15px;" /> TikTok</a></li>
+                    <li class="margin-bottom-10px"><a class="text-small text-white" href="https://www.youtube.com/@GustavoFiorinoGF" target="_blank" title="Seguinos en YouTube"><i class="fab fa-youtube text-danger mr-2"></i>YouTube</a></li>
                     
                 </ul>                
             </div>            
@@ -43,42 +45,13 @@ $(function () {
             <div class="col-md-3 col-sm-6 col-xs-12 center-col padding-bottom-10px md-no-border-right sm-text-center xs-no-border-left xs-no-padding-left xs-no-padding-bottom">
                 <h5 class="text-extra-large text-weight-300 text-white">Estudio</h5>
                 <div class="uk-grid-small uk-child-width-1-3" data-uk-grid data-uk-lightbox="animation: fade">
-                    <!-- <div>
-                        <a href="images/Seleccion/06fiesta00013.JPG" data-caption="Caption 1">
-                            <img src="images/Seleccion/06fiesta00013.JPG" alt="">
-                        </a>
-                    </div>
-                    <div>
-                        <a class="uk-inline" href="images/Seleccion/AyN0168.jpg" data-caption="Caption 1">
-                            <img src="images/Seleccion/AyN0168.jpg" alt="">
-                        </a>
-                    </div>
-                    <div>
-                        <a href="images/Seleccion/Delfi0552.jpg" data-caption="Caption 1">
-                            <img src="images/Seleccion/Delfi0552.jpg" alt="">
-                        </a>
-                    </div>
-                    <div>
-                        <a class="uk-inline" href="images/Seleccion/TSyN0240.jpg" data-caption="Caption 1">
-                            <img src="images/Seleccion/TSyN0240.jpg" alt="">
-                        </a>
-                    </div>
-                    <div>
-                        <a class="uk-inline" href="images/Seleccion/Velero0012.jpg" data-caption="Caption 1">
-                            <img src="images/Seleccion/Velero0012.jpg" alt="">
-                        </a>
-                    </div>
-                    <div>
-                        <a class="uk-inline" href="images/Seleccion/YPO BA 0525.jpg" data-caption="Caption 1">
-                            <img src="images/Seleccion/YPO BA 0525.jpg" alt="">
-                        </a>
-                    </div> -->
+                   
                 </div>
                
-                <p class="mt-2">
+                <p class="mt-2 text-white" style="font-size: 13px">
                     <i class="fas fa-map-marker-alt mr-2"></i>
                     Av. Montes de Oca 251 Piso 4 oficina 148. CABA. Argentina</p>
-                <p> <i class="fas fa-phone mr-2"></i> (+5411) 4519-5615 <br> 
+                <p class="text-white" style="font-size: 13px"> <i class="fas fa-phone mr-2"></i> (+5411) 4519-5615 <br> 
                 <i class="fas fa-phone mr-2"></i> (+5411) 4307-3322  </p>
             </div>
         </div>
