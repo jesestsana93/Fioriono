@@ -146,6 +146,13 @@ a > h1{
   color: black;
   background-color: rgba(0,0,0,.5);
   font-size: 24px;
+  margin-bottom: 140px;
+}
+
+@media(min-width: 992px){
+  .titulo-seccion{
+    margin-bottom: 0px;
+  }
 }
 /*Dimensiones para el logo de Fiorino en el header*/
 .logo-fiorino{
@@ -293,11 +300,13 @@ a > h1{
   background-color: red;
 }
 
+
 .icono-reproduccion { 
   padding: 0px 7px; 
   border: 1px solid red;
    border-radius: 10px; 
    color: white;
    background-color: red;
-  transform: translate(150px,50px);
+  transform: translate(6rem,1.5rem);
 }
+

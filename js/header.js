@@ -83,7 +83,8 @@ $(function () {
                 <li class="uk-parent margin-bottom-10px">
                     <a href="#" class="bottom-border border-1px border-color-gray-extra-dark"><span class="text-small text-white roboto text-weight-300 padding-bottom-20px">Eventos</span></a>
                     <ul class="uk-nav-sub">
-                        <li><a href="15-anios.html">15 años</a></li>
+                        <li><a href="book.html">Book</a></li>
+                        <li><a href="fiesta.html">Fiesta</a></li>
                         <li><a href="bodas.html">Bodas</a></li>
                         <li><a href="bar.html">Bar y Bat Mitzvah </a></li>
                         <li><a href="celebraciones.html">Celebraciones</a></li>
@@ -95,7 +96,7 @@ $(function () {
                 </li>
                 
                 <li class="margin-bottom-10px">
-                    <a href="#works" class="bottom-border border-1px border-color-gray-extra-dark" data-uk-scroll><span class="text-small text-white roboto text-weight-300 padding-bottom-20px">Reseñas</span></a>
+                    <a href="#services" class="bottom-border border-1px border-color-gray-extra-dark" data-uk-scroll><span class="text-small text-white roboto text-weight-300 padding-bottom-20px">Servicios adicionales</span></a>
                 </li>					
                 
                 <li class="margin-bottom-10px">
