@@ -22,7 +22,7 @@ $(function () {
 								<img src="../../../images/servicios/miniaturas/final-de-fiesta.jpg" alt="final-fiesta" class="img-fluid"/>
 							
 								<div class="uk-position-top-left margin-50px">
-									<span data-uk-icon="icon: play; ratio: 2.4" class="text-lime margin-right-10px" style="transform: translate(160px,100px); border: 1px solid red; border-radius: 10px; padding: 0px 7px;background-color: red; color: white;"></span>
+									<span data-uk-icon="icon: play; ratio: 2.4" class="text-lime margin-right-10px youtube-icon"></span>
 								</div>
 							</div>
 						</a>
@@ -45,7 +45,7 @@ $(function () {
 								<img src="../../../images/servicios/miniaturas/biografia-express.jpg" alt="biografia express" class="img-fluid"/>
 							
 								<div class="uk-position-top-left margin-50px">
-									<span data-uk-icon="icon: play; ratio: 2.4" class="text-lime margin-right-10px" style="transform: translate(160px,100px); border: 1px solid red; border-radius: 10px; padding: 0px 7px;background-color: red; color: white;"></span>
+									<span data-uk-icon="icon: play; ratio: 2.4" class="text-lime margin-right-10px youtube-icon"></span>
 								</div>
 							</div>
 						</a>
@@ -68,7 +68,7 @@ $(function () {
 								<img src="../../../images/servicios/miniaturas/drone.jpg" alt="drone" class="img-fluid"/>
 							
 								<div class="uk-position-top-left margin-50px">
-									<span data-uk-icon="icon: play; ratio: 2.4" class="text-lime margin-right-10px" style="transform: translate(160px,100px); border: 1px solid red; border-radius: 10px; padding: 0px 7px;background-color: red; color: white;"></span>
+									<span data-uk-icon="icon: play; ratio: 2.4" class="text-lime margin-right-10px youtube-icon"></span>
 								</div>
 							</div>
 						</a>
@@ -91,7 +91,7 @@ $(function () {
 								<img src="../../../images/servicios/miniaturas/invitacion-web.png" alt="invitacion web" class="img-fluid"/>
 							
 								<div class="uk-position-top-left margin-50px">
-									<span data-uk-icon="icon: play; ratio: 2.4" class="text-lime margin-right-10px" style="transform: translate(160px,100px); border: 1px solid red; border-radius: 10px; padding: 0px 7px;background-color: red; color: white;"></span>
+									<span data-uk-icon="icon: play; ratio: 2.4" class="text-lime margin-right-10px youtube-icon"></span>
 								</div>
 							</div>
 						</a>
@@ -115,7 +115,7 @@ $(function () {
 								<img src="../../../images/servicios/miniaturas/360.jpg" alt="360 grados" class="img-fluid"/>
 							
 								<div class="uk-position-top-left margin-50px">
-									<span data-uk-icon="icon: play; ratio: 2.4" class="text-lime margin-right-10px" style="transform: translate(160px,100px); border: 1px solid red; border-radius: 10px; padding: 0px 7px;background-color: red; color: white;"></span>
+									<span data-uk-icon="icon: play; ratio: 2.4" class="text-lime margin-right-10px youtube-icon"></span>
 								</div>
 							</div>
 						</a>
@@ -154,7 +154,7 @@ $(function () {
 								<img src="../../../images/servicios/miniaturas/back-entrada.jpg" alt="back entrada" class="img-fluid"/>
 							
 								<div class="uk-position-top-left margin-50px">
-									<span data-uk-icon="icon: play; ratio: 2.4" class="text-lime margin-right-10px" style="transform: translate(160px,100px); border: 1px solid red; border-radius: 10px; padding: 0px 7px;background-color: red; color: white;"></span>
+									<span data-uk-icon="icon: play; ratio: 2.4" class="text-lime margin-right-10px youtube-icon"></span>
 								</div>
 							</div>
 						</a>
@@ -178,7 +178,7 @@ $(function () {
 								<img src="../../../images/servicios/miniaturas/habia-una-vez.jpeg" alt="habia una vez" class="img-fluid"/>
 							
 								<div class="uk-position-top-left margin-50px">
-									<span data-uk-icon="icon: play; ratio: 2.4" class="text-lime margin-right-10px" style="transform: translate(160px,100px); border: 1px solid red; border-radius: 10px; padding: 0px 7px;background-color: red; color: white;"></span>
+									<span data-uk-icon="icon: play; ratio: 2.4" class="text-lime margin-right-10px youtube-icon"></span>
 								</div>
 							</div>
 						</a>
@@ -217,7 +217,7 @@ $(function () {
 								<img src="../../../images/servicios/miniaturas/cabina-mensajes.jpg" alt="cabina-mensajes" class="img-fluid"/>
 							
 								<div class="uk-position-top-left margin-50px">
-									<span data-uk-icon="icon: play; ratio: 2.4" class="text-lime margin-right-10px" style="transform: translate(160px,100px); border: 1px solid red; border-radius: 10px; padding: 0px 7px;background-color: red; color: white;"></span>
+									<span data-uk-icon="icon: play; ratio: 2.4" class="text-lime margin-right-10px youtube-icon"></span>
 								</div>
 							</div>
 						</a>
@@ -241,7 +241,7 @@ $(function () {
 								<img src="../../../images/servicios/miniaturas/draw-my-life.jpg" alt="draw-my-life" class="img-fluid"/>
 							
 								<div class="uk-position-top-left margin-50px">
-									<span data-uk-icon="icon: play; ratio: 2.4" class="text-lime margin-right-10px" style="transform: translate(160px,100px); border: 1px solid red; border-radius: 10px; padding: 0px 7px;background-color: red; color: white;"></span>
+									<span data-uk-icon="icon: play; ratio: 2.4" class="text-lime margin-right-10px youtube-icon"></span>
 								</div>
 							</div>
 						</a>
@@ -265,7 +265,7 @@ $(function () {
 								<img src="../../../images/servicios/miniaturas/save-the-date.jpg" alt="save-the-date" class="img-fluid"/>
 							
 								<div class="uk-position-top-left margin-50px">
-									<span data-uk-icon="icon: play; ratio: 2.4" class="text-lime margin-right-10px" style="transform: translate(160px,100px); border: 1px solid red; border-radius: 10px; padding: 0px 7px;background-color: red; color: white;"></span>
+									<span data-uk-icon="icon: play; ratio: 2.4" class="text-lime margin-right-10px youtube-icon"></span>
 								</div>
 							</div>
 						</a>
@@ -363,7 +363,7 @@ $(function () {
 								<img src="../../../images/servicios/miniaturas/clip.jpg" alt="clip" class="img-fluid"/>
 							
 								<div class="uk-position-top-left margin-50px">
-									<span data-uk-icon="icon: play; ratio: 2.4" class="text-lime margin-right-10px" style="transform: translate(160px,100px); border: 1px solid red; border-radius: 10px; padding: 0px 7px;background-color: red; color: white;"></span>
+									<span data-uk-icon="icon: play; ratio: 2.4" class="text-lime margin-right-10px youtube-icon"></span>
 								</div>
 							</div>
 						</a>
