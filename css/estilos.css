@@ -278,6 +278,7 @@ a > h1{
   background-size: cover;
 }
 
+
 .modal-content {
   border: 1px solid white;
   color: white;
@@ -300,65 +301,15 @@ a > h1{
   background-color: red;
 }
 
-
-.icono-reproduccion { 
-  padding: 0px 7px; 
-  border: 1px solid red;
-   border-radius: 10px; 
-   color: white;
-   background-color: rgba(255, 0, 0, .4);
-  transform: translate(6rem,1.5rem);
-}
-
 .youtube-icon{ 
   padding: 0px 7px; 
   border: 1px solid red; 
   border-radius: 10px; 
   color: white;
   background-color: red;
-  transform: translate(150px,55px);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
-.uk-position-cover {
-  position: absolute;
-}
-@media(min-width:400px){
-  .uk-position-cover {
-    top: 10%;
-    right: 50%;
-    bottom: 43%;
-    left: 10%;
-  }
-}
-@media(min-width:576px){
-  .uk-position-cover {
-    top: 15%;
-    right: 50%;
-    bottom: 43%;
-    left: 15%;
-  }
-}
-@media(min-width:768px){
-  .uk-position-cover {
-    top: 22%;
-    right: 50%;
-    bottom: 43%;
-    left: 25%;
-  }
-}
-@media(min-width:992px){
-  .uk-position-cover {
-    top: 15%;
-    right: 50%;
-    bottom: 43%;
-    left: 15%;
-  }
-}
-@media(min-width:1200px){
-  .uk-position-cover {
-    top: 22%;
-    right: 50%;
-    bottom: 43%;
-    left: 25%;
-  }
-}

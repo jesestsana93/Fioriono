@@ -14,7 +14,7 @@ $(function () {
                     <div class="text-left sm-text-center sm-width-100">
                         <h1 class="text-weight-200 text-gradient-gold sm-width-90 margin-bottom-20px sm-margin-left-right-auto sm-text-weight-300 seccion">Servicios adicionales</h1>
                         
-                      <h6 class="text-weight-200 text-white margin-left-right-auto">Completa tu evento con<br/><span class="text-lime">detalles únicos</span></h6>
+                      <h6 class="text-weight-200 text-white margin-left-right-auto" style="font-weight:300;">Completa tu evento con<br/><span class="text-lime">detalles únicos</span></h6>
                         <a class="btn btn-small btn-white border-radius-50 sm-margin-left-right-auto d-none d-lg-inline-block" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">Ver más</a>
                     </div>
                 </div>
@@ -25,7 +25,7 @@ $(function () {
                             <div class="col-md-6 col-sm-12 col-xs-12 margin-bottom-100px text-left sm-text-center">
                                 <button type="button" class="btn btn-primary btn-servicios mx-auto text-weight-200  margin-top-20px margin-bottom-15px text-white sm-text-weight-300" data-bs-toggle="modal" data-bs-target="#finalFiesta">
                                     <i class="fas fa-camera-retro text-danger mb-2"></i>
-                                   <p class="text-capitalize">Final de Fiesta</p>
+                                   <p class="text-capitalize text-white" style="font-weight:300;">Final de Fiesta</p>
                                     
                                 </button>
 
@@ -39,7 +39,7 @@ $(function () {
                             <div class="col-md-6 col-sm-12 col-xs-12 margin-bottom-100px text-left sm-text-center">
                                 <button type="button" class="btn btn-primary btn-servicios mx-auto" data-bs-toggle="modal" data-bs-target="#biografiaExpress">
                                     <i class="fas fa-camera-retro text-danger mb-2"></i>
-                                    <p class="text-capitalize">Biografía express</p>
+                                    <p class="text-capitalize text-white" style="font-weight:300;">Biografía express</p>
                                 </button>
                                 
                                 <a href="#" class="text-underline no-margin text-weight-400 text-medium"></a>
@@ -54,7 +54,7 @@ $(function () {
                                 
                             <button type="button" class="btn btn-primary btn-servicios mx-auto" data-bs-toggle="modal" data-bs-target="#drone">
                                 <i class="fas fa-camera-retro text-danger mb-2"></i>
-                                <p>Drone</p>
+                                <p class="text-capitalize text-white" style="font-weight:300;">Drone</p>
                             </button>
                                 
                                 <a href="#" class="text-underline no-margin text-weight-400 text-medium"></a>
@@ -68,7 +68,7 @@ $(function () {
                                 
                                 <button type="button" class="btn btn-primary btn-servicios mx-auto" data-bs-toggle="modal" data-bs-target="#invitacionWeb">
                                     <i class="fas fa-camera-retro text-danger mb-2"></i>
-                                    <p class="text-capitalize">Invitación web</p>
+                                    <p class="text-capitalize text-white" style="font-weight:300;">Invitación web</p>
                                 </button>
                                 
                                 <a href="#" class="text-underline no-margin text-weight-400 text-medium"></a>
@@ -82,7 +82,7 @@ $(function () {
                             <div class="col-md-6 col-sm-12 col-xs-12 sm-margin-bottom-100px text-left sm-text-center">
                                 <button type="button" class="btn btn-primary btn-servicios mx-auto" data-bs-toggle="modal" data-bs-target="#360">
                                     <i class="fas fa-camera-retro text-danger mb-2"></i>
-                                    <p>360º</p>
+                                    <p class="text-capitalize text-white" style="font-weight:300;">360º</p>
                                 </button>
                                 
                                 
@@ -98,7 +98,7 @@ $(function () {
                                 
                                 <button type="button" class="btn btn-primary btn-servicios mx-auto" data-bs-toggle="modal" data-bs-target="#espejoMagico">
                                     <i class="fas fa-camera-retro text-danger mb-2"></i>
-                                    <p class="text-capitalize">Espejo mágico</p>
+                                    <p class="text-capitalize text-white" style="font-weight:300;">Espejo mágico</p>
                                 </button>
                                 
                                 <a href="#" class="text-underline no-margin text-weight-400 text-medium"></a>
@@ -115,7 +115,7 @@ $(function () {
                         <div class="col-md-6 col-lg-3 my-5">
                             <button type="button" class="btn btn-primary btn-servicios mx-auto" data-bs-toggle="modal" data-bs-target="#backDeEntrada">
                                 <i class="fas fa-camera-retro text-danger mb-2"></i>
-                                <p>Back de Entrada</p>
+                                <p class="text-capitalize text-white" style="font-weight:300;">Back de Entrada</p>
                             </button>
                         
                             <a href="#" class="text-underline no-margin text-weight-400 text-medium"></a>
@@ -123,7 +123,7 @@ $(function () {
                         <div class="col-md-6 col-lg-3 my-5">
                             <button type="button" class="btn btn-primary btn-servicios mx-auto" data-bs-toggle="modal" data-bs-target="#habiaUnaVez">
                                 <i class="fas fa-camera-retro text-danger mb-2"></i>
-                                <p class="text-capitalize">Habia una vez</p>
+                                <p class="text-capitalize text-white" style="font-weight:300;">Habia una vez</p>
                             </button>
                         
                             <a href="#" class="text-underline no-margin text-weight-400 text-medium"></a>
@@ -131,7 +131,7 @@ $(function () {
                         <div class="col-md-6 col-lg-3 my-5">
                             <button type="button" class="btn btn-primary btn-servicios mx-auto" data-bs-toggle="modal" data-bs-target="#cabinaFoto">
                                 <i class="fas fa-camera-retro text-danger mb-2"></i>
-                                <p class="text-capitalize">Cabina foto</p>
+                                <p class="text-capitalize text-white" style="font-weight:300;">Cabina foto</p>
                         </button>
                         
                             <a href="#" class="text-underline no-margin text-weight-400 text-medium"></a>
@@ -139,7 +139,7 @@ $(function () {
                         <div class="col-md-6 col-lg-3 my-5">
                             <button type="button" class="btn btn-primary btn-servicios mx-auto" data-bs-toggle="modal" data-bs-target="#cabinaMensajes">
                                 <i class="fas fa-camera-retro text-danger mb-2"></i>
-                                <p class="text-capitalize">Cabina mensajes</p>
+                                <p class="text-capitalize text-white" style="font-weight:300;">Cabina mensajes</p>
                             </button>
                         
                             <a href="#" class="text-underline no-margin text-weight-400 text-medium"></a>
@@ -147,7 +147,7 @@ $(function () {
                         <div class="col-md-6 col-lg-3 my-5">
                             <button type="button" class="btn btn-primary btn-servicios mx-auto" data-bs-toggle="modal" data-bs-target="#drawMyLife">
                                 <i class="fas fa-camera-retro text-danger mb-2"></i>
-                                <p class="text-capitalize">Draw my life</p>
+                                <p class="text-capitalize text-white" style="font-weight:300;">Draw my life</p>
                             </button>
                         
                             <a href="#" class="text-underline no-margin text-weight-400 text-medium"></a>
@@ -155,7 +155,7 @@ $(function () {
                         <div class="col-md-6 col-lg-3 my-5">
                             <button type="button" class="btn btn-primary btn-servicios mx-auto" data-bs-toggle="modal" data-bs-target="#saveTheDate">
                                 <i class="fas fa-camera-retro text-danger mb-2"></i>
-                                <p class="text-capitalize">Save the date</p>
+                                <p class="text-capitalize text-white" style="font-weight:300;">Save the date</p>
                             </button>
                         
                             <a href="#" class="text-underline no-margin text-weight-400 text-medium"></a>
@@ -163,7 +163,7 @@ $(function () {
                         <div class="col-md-6 col-lg-3 mt-lg-5">
                             <button type="button" class="btn btn-primary btn-servicios mx-auto" data-bs-toggle="modal" data-bs-target="#shimmer">
                                 <i class="fas fa-camera-retro text-danger mb-2"></i>
-                                <p>Shimmer</p>
+                                <p class="text-capitalize text-white" style="font-weight:300;">Shimmer</p>
                             </button>
                         
                             <a href="#" class="text-underline no-margin text-weight-400 text-medium"></a>
@@ -171,7 +171,7 @@ $(function () {
                         <div class="col-md-6 col-lg-3 mt-lg-5">
                             <button type="button" class="btn btn-primary btn-servicios mx-auto" data-bs-toggle="modal" data-bs-target="#grua">
                                 <i class="fas fa-camera-retro text-danger mb-2"></i>
-                                <p>Grua</p>
+                                <p class="text-capitalize text-white" style="font-weight:300;">Grua</p>
                             </button>
                         
                             <a href="#" class="text-underline no-margin text-weight-400 text-medium"></a>
@@ -179,7 +179,7 @@ $(function () {
                         <div class="col-md-6 col-lg-3 mt-lg-5">
                             <button type="button" class="btn btn-primary btn-servicios mx-auto" data-bs-toggle="modal" data-bs-target="#postalesPolaroid">
                                 <i class="fas fa-camera-retro text-danger mb-2"></i>
-                                <p>Postales/Polaroid</p>
+                                <p class="text-capitalize text-white" style="font-weight:300;">Postales/Polaroid</p>
                             </button>
                         
                             <a href="#" class="text-underline no-margin text-weight-400 text-medium"></a>
@@ -187,7 +187,7 @@ $(function () {
                         <div class="col-md-6 col-lg-3 mt-lg-5">
                             <button type="button" class="btn btn-primary btn-servicios mx-auto" data-bs-toggle="modal" data-bs-target="#banner">
                                 <i class="fas fa-camera-retro text-danger mb-2"></i>
-                                <p>Banner</p>
+                                <p class="text-capitalize text-white" style="font-weight:300;">Banner</p>
                             </button>
                         
                             <a href="#" class="text-underline no-margin text-weight-400 text-medium"></a>
@@ -195,7 +195,7 @@ $(function () {
                         <div class="col-md-6 col-lg-3 mt-lg-5">
                             <button type="button" class="btn btn-primary btn-servicios mx-auto" data-bs-toggle="modal" data-bs-target="#fotoIman">
                                 <i class="fas fa-camera-retro text-danger mb-2"></i>
-                                <p>Foto Iman</p>
+                                <p class="text-capitalize text-white" style="font-weight:300;">Foto Iman</p>
                             </button>
                             
                             <a href="#" class="text-underline no-margin text-weight-400 text-medium"></a>
@@ -203,7 +203,7 @@ $(function () {
                         <div class="col-md-6 col-lg-3 mt-lg-5">
                             <button type="button" class="btn btn-primary btn-servicios mx-auto" data-bs-toggle="modal" data-bs-target="#clip">
                                 <i class="fas fa-camera-retro text-danger mb-2"></i>
-                                <p>Clip</p>
+                                <p class="text-capitalize text-white" style="font-weight:300;">Clip</p>
                             </button>
                         
                             <a href="#" class="text-underline no-margin text-weight-400 text-medium"></a>
