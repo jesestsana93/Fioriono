@@ -1,0 +1,315 @@
+@font-face {
+  font-family: 'BirdHouse';
+  font-style: normal;
+  font-weight: normal;
+  src: url("/fonts/OTF/Bird.otf") format("opentype"),
+       url("/fonts/TTF/Bird.ttf") format("truetype");
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Birthstone&display=swap');
+
+body, p, button, [type="button"], [type="submit"], textarea, a{
+  font-family: 'Lato' !important;
+}
+
+.seccion {
+  text-align: center;
+  font-family: 'BirdHouse' !important;
+  font-size: 160px !important;
+  font-style: normal;
+  font-weight: 400;
+}
+.contenedor-video,
+.menu-lateral {
+  position: fixed;
+  top:0;
+}
+
+.contenedor-video {
+  left: 0;
+  width: 100%; 
+  height: 100vh;
+}
+
+.menu-lateral-fiorino { 
+  z-index: 9999;
+  top: 50%;
+  width: 30%; 
+  height: 100vh;
+  color: #fff;
+  transform: translateY(30%);
+
+}
+.meniu-lateral-fiorino ul li a{
+    display: block;
+    line-height: 10px;
+    color: #fff !important;
+}
+.menu-lateral-fiorino ul li{
+    z-index: 9999;
+    margin-left: 10px;
+    color: #fff;
+    list-style: none;
+    text-transform: uppercase;
+    font-size: 55px;
+    font-weight: 900;
+}
+.menu-lateral-fiorino ul li a{
+    color: rgba(255,255,255,.7);
+}
+.menu-lateral-fiorino ul li a.active{
+    color: rgb(221, 32, 39);
+}
+.menu-lateral-fiorino ul li a:hover{
+    color: rgb(221, 32, 39);
+}
+#return-to-top span {
+  color: rgb(221, 32, 39);
+}
+.bg-gold {
+  background-color: rgb(221, 32, 39);
+}
+.menu-lateral-fiorino2 { 
+    z-index: 9999;
+    top: 50%; 
+    height: 100vh;
+    color: #fff;
+    transform: translateY(30%);
+  
+  }
+  .meniu-lateral-fiorino2 ul li a{
+      display: block;
+      line-height: 10px;
+      color: #fff !important;
+  }
+  .menu-lateral-fiorino2 ul li{
+      z-index: 9999;
+      line-height: 50px;
+      margin-left: 10px;
+      color: #fff;
+      list-style: none;
+      text-transform: uppercase;
+      font-size: 45px;
+      font-weight: 900;
+  }
+  .menu-lateral-fiorino2 ul li a{
+      color: rgba(255,255,255,.7);
+  }
+  .menu-lateral-fiorino2 ul li a.active{
+      color: #E7242D;
+  }
+  .menu-lateral-fiorino2 ul li a:hover{
+      color: #E7242D;
+  }
+
+  .text-gradient-gold {
+    background: linear-gradient(to right, #E7242D 10%, #E7242D 80%);
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -ms-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+
+.whatsapp {
+  position: fixed;
+  z-index: 100;
+  bottom: 40px;
+  left: 40px;
+  width: 60px;
+  height: 60px;
+  border-radius: 50px;
+  color: #fff;
+  color: white;
+  background-color: #25d366;
+  text-align: center;
+  font-size: 30px;
+}
+
+.whatsapp-icon {
+  margin-top: 13px;
+  color: white;
+}
+
+/******************** INICIO  ******************** /
+
+/*********** TITULO DE SECCIONES EN INICIO ***************/
+a > h1{
+  padding: 11px 10px;
+  border: 1px solid #E7242D;
+  text-transform: uppercase;
+}
+
+.titulo-seccion{
+  margin-bottom: 140px;
+  border: 2px solid red;
+  color: black;
+  background-color: rgba(0,0,0,.5);
+  font-size: 24px;
+}
+
+@media(min-width: 992px){
+  .titulo-seccion{
+    margin-bottom: 0px;
+  }
+}
+/*Dimensiones para el logo de Fiorino en el header*/
+.logo-fiorino{
+  width: 340px;
+}
+.logo-fiorino-index{
+  width: 400px;
+}
+
+
+.bg-lime{
+  background-color: #E7242D;
+}
+.text-lime{
+  color: #E7242D;
+}
+
+.uk-transition-fade {
+  opacity: 1;
+}
+
+@media (min-width: 992px){
+  .uk-transition-fade {
+    opacity: 0;
+  }
+}
+
+/*Servicios*/
+.btn-servicios,
+.btn-servicios:hover,
+.btn-servicios:focus,
+.btn-primary:not(:disabled):not(.disabled):active,
+.btn:focus-visible,
+.btn-primary:not(:disabled):not(.disabled):active:focus{
+  display: block;
+  margin-top: 6px;
+  border: 1px solid transparent;
+  background-color: transparent;
+  box-shadow: none;
+  text-transform: none;
+  font-size: 30px;
+  font-weight: 200;
+}
+.img-servicio{
+  width: 60px;
+}
+
+.btn-primary.focus, .btn-primary:focus {
+  box-shadow: 0 0 0 .2rem transparent;
+}
+
+.servicios{
+  font-size: 80px !important;
+}
+/*Imagenes de portadas*/
+.image-bg{ /*Book*/
+  background: url(../images/portadas/15-anios/book/2.png); 
+  background-position: center;
+  background-size: cover;
+}
+.image-bg-2{ /*Fiesta*/
+  background: url(../images/portadas/15-anios/fiesta/1.png); 
+}
+.image-bg-3{ /*Bodas*/
+  background: url(../images/portadas/bodas/2.png); 
+}
+.image-bg-4{ /*Bar bat*/
+  background: url(../images/bar-bat/medianas/JPEG/DSC_238.jpg); 
+  background-position: top left;
+  background-size: cover;
+}
+
+.image-bg-5{ /*Celebraciones*/
+  background: url(../images/portadas/celebraciones/1.png); 
+}
+.image-bg-6{ /*Empresariales*/
+  background: url(../images/empresariales/); 
+}
+
+
+.overlay-black:after{
+    opacity: 0.629 !important; 
+}
+.overlay-black-celebraciones:after{
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    content: '';
+
+}
+.overlay-black-celebraciones:after{
+  opacity: 0.82 !important;
+  background: #000; 
+}
+
+
+/*Fondos de secciones*/
+.image-bg-7{ /*Nosotros*/
+  color: rgba(255,255,255,.8);
+  background: url(../images/portadas/Fondos/Nosotros/Nosotros.jpeg); 
+  background-position: center;
+  background-size: cover;
+}
+.image-bg-8{ /*Contacto*/ 
+  color: rgba(255,255,255,.8);
+  background: url(../images/portadas/Fondos/BlancoyNegro86.jpg);
+  background-position: center;
+  background-size: cover;
+} 
+.image-bg-9{ /*Agradecimientos*/
+  color: rgba(255,255,255,.8);
+  background: url(../images/portadas/Fondos/Lucia0778.jpg); 
+  background-position: center;
+  background-size: cover;
+}
+.image-bg-10{ /*Servicios*/
+  color: rgba(255,255,255,.8);
+  background: url(../images/portadas/Fondos/Valentina0399.jpg); 
+  background-position: center;
+  background-size: cover;
+}
+
+
+.modal-content {
+  border: 1px solid white;
+  color: white;
+  background-color: black;
+}
+.modal-title{
+  color: white;
+  text-transform: capitalize;
+}
+.modal-content {
+  border: 1px solid red;
+}
+
+.modal-header {
+  border-bottom: 1px solid red;
+}
+
+.btn-close {
+  opacity: 1;
+  background-color: red;
+}
+
+.youtube-icon{ 
+  padding: 0px 7px; 
+  border: 1px solid red; 
+  border-radius: 10px; 
+  color: white;
+  background-color: red;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
