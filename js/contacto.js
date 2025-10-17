@@ -95,7 +95,11 @@ $(function () {
                                         </div>
                                     </div>
                                 </div>
-                                <div class="row">
+
+                                <div class="h-captcha" data-sitekey="62f2f180-5c04-4886-ab2a-e05093c29964"></div>
+                                <script src="https://js.hcaptcha.com/1/api.js" async defer></script>
+
+                                <div class="row mt-3">
                                     <div class="col-md-12 text-center">
                                         <input type="submit" class="btn btn-small border-radius-50 btn-white sm-display-table" value="Enviar mensaje">
                                     </div>
@@ -108,5 +112,8 @@ $(function () {
             </div>
         </div>
         `);
+
     }
 });
+
+

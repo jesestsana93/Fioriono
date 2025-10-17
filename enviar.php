@@ -6,9 +6,8 @@
     require 'PHPMailer/Exception.php'; 
     require 'PHPMailer/PHPMailer.php'; 
     require 'PHPMailer/SMTP.php'; 
-    //require('./Captcha.php');
-
-    //$captcha = new Captcha();
+    
+    
 
     //Create an instance; passing `true` enables exceptions
     $mail = new PHPMailer(true);
@@ -50,10 +49,8 @@
 
         $mail->setFrom('ayelen@gustavofiorino.com', 'Gustavo Fiorino'); //desde donde se va a enviar
         $mail->addAddress('ayelen@gustavofiorino.com'); //a quien se va a enviar  
-        $mail->addAddress('bubuxclan@gmail.com'); //a quien se va a enviar  
-        $mail->addAddress('chuyunam93@gmail.com'); 
-        $mail->addAddress('jesusweb.2021@gmail.com'); 
-        $mail->addAddress('jesestsana93@hotmail.com');
+        $mail->addBCC('bubuxclan@gmail.com'); //a quien se va a enviar  
+        $mail->addBCC('chuyunam93@gmail.com'); 
 
         //Content
         $mail->isHTML(true);                                
