@@ -313,3 +313,33 @@ a > h1{
   transform: translate(-50%, -50%);
 }
 
+.image-bg-producto{ /*Producto*/
+  color: rgba(255,255,255,.8);
+  background: url(../images/cinque/Foto_Producto/BaBay0005.jpg); 
+  background-position: center;
+  background-size: cover;
+}
+.image-bg-gastro{ /*Gastronomia*/
+  color: rgba(255,255,255,.8);
+  background: url(../images/cinque/Gastronomia/DSC_1101.JPG); 
+  background-position: center;
+  background-size: cover;
+}
+.image-bg-deporte{ /*Deporte*/
+  color: rgba(255,255,255,.8);
+  background: url(../images/cinque/Deporte/DSC_0365.JPG); 
+  background-position: center;
+  background-size: cover;
+}
+.image-bg-eventos{ /*Eventos*/
+  color: rgba(255,255,255,.8);
+  background: url(../images/cinque/Eventos/ZECAT2318.jpg); 
+  background-position: center;
+  background-size: cover;
+}
+.image-bg-y-mas{ /*Eventos*/
+  color: rgba(255,255,255,.8);
+  background: url(../images/cinque/Y_mas/04CordilleraArgentina.JPG); 
+  background-position: center;
+  background-size: cover;
+}
