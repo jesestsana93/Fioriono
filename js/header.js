@@ -55,6 +55,12 @@ $(function () {
                             <img src="images/tiktok.png" class="img-fluid" style="height:15px;" /> 
                         </a></li>
                         <li class="d-none d-xl-flex"><a class="uk-visible@m" href="https://www.youtube.com/@GustavoFiorinoGF" target="_blank" title="Seguinos en YouTube"><i class="fab fa-youtube text-danger"></i></a></li>
+
+                        <li class="d-none d-xl-flex">
+                            <a class="uk-visible@m" href="cinque-producto.html" target="_blank">
+                                <img style="width:100%;" src="images/cinque/cinque.png" alt="" />
+                            </a>
+                        </li>
                         
                         <!-- Off-Canvas Navigation Toggle -->
                         <li class="d-xl-none">
